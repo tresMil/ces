@@ -1,0 +1,2592 @@
+#EXTM3U  
+
+#EXTINF:-1, AZTECA A+ | SD
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:-1,AZTECA 13
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+#EXTINF:-1,AZTECA 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,AZTECA7 HD
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+#EXTINF:-1,ADN 40 HD
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,FOROTV HD
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1,OCHO TV (GUADALAJARA) | FHD
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:-1,CANAL ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1,MULTIMEDIOS MONTERREY HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1,ADN 40 HD
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
+#EXTINF:-1,CANAL 11 HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+#EXTINF:-1,MVS Noticias HD
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:-1,CANAL 11 MEXICO HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1339977921_b1300000_slesp.m3u8
+#EXTINF:-1,EFEKTO TV HD
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+#EXTINF:-1,CANAL ONCE HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
+#EXTINF:-1,ADN 40 HD
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,A+ HD
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
+#EXTINF:-1,ADN 40 HD
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,MULTIMEDIOS MONTERREY
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1,CANAL Azteka 4
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,CANAL 5 chv
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+#EXTINF:-1,ITV
+http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/chunklist_w204765687.m3u8
+#EXTINF:-1,UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1,UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:-1,CANAL ONCE MEXICO HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+#EXTINF:-1,OROMAR Tv
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:-1,TELEMUNDO HD
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,TELEMUNDO HD
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,CANAL 8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TELEMUNDO 51 HD MIAMI
+http://tecnotv.info/channel/tmundo51m
+#EXTINF:-1,ANIMAX
+http://tecnotv.info/channel/animax
+#EXTINF:-1,PAKAPAKA
+http://tecnotv.info/channel/pakapaka
+#EXTINF:-1,ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,El CHAVO ANIMADO
+http://3.sendvid.com/y00xutjl.mp4/
+#EXTINF:-1,Los Simpsons 24/7
+http://tecnotv.xyz/mediaplay/simp
+#EXTINF:-1,Kids Movies
+http://tecnotv.xyz/mediaplay/kidsmovies
+#EXTINF:-1,CANAL TNT
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+#EXTINF:-1,TNT
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,A3S HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,MEGA HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,NOVA HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_1_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,NEOX HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?www.tecnotv.info?
+#EXTINF:-1,NOVA HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=oN
+#EXTINF:-1,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1,8 TV ESP
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+#EXTINF:-1,ATRESERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEGA ESPANA HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?JoCaRoIPTV.m3u8#EXTM3U
+#EXTINF:-1,NOVA TV ESP HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,MEGA HD ESP HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:-1,CANAL VASCO ESP
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1,ANTENA3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TELE MADRID
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1,ATRESERIES HD ESP
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRAVEL HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1,Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1,eE TV
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
+#EXTINF:-1,REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,TV AZTECA HONDURAS
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+#EXTINF:-1,TELESUR
+http://cdna.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1,DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1,TELESUR HD
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+#EXTINF:-1,CNN Chile HD
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+#EXTINF:-1,PIGUINO TV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1,TELEMAX ARG
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,TLT
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
+#EXTINF:-1,TVO
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
+#EXTINF:-1,OLYMPIC CHANNEL HD
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8#EXTM3U
+#EXTINF:-1,CABLEONDA SPORT HD
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8#EXTM3U
+#EXTINF:-1,COS FC SPORT HD
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8#EXTM3U
+#EXTINF:-1,REALMADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8#EXTM3U
+#EXTINF:-1,SEVILLA FC TV HD
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on#EXTM3U
+#EXTINF:-1,REDBULL TV HD
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,TC HD COLOMBIA
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:-1,TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:-1,LATINOS:TV UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,NEX TV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1,RCN HD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?www.tecnotv.info
+#EXTINF:-1,CILENCE TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
+#EXTINF:-1,TICAVISION COSTA RICA HD
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,ACS NETWORK TV
+http://us1.edge.grupoz.cl/acsnetwork/live/chunklist_w973423923.m3u8
+#EXTINF:-1,Europa Canal 4 HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+#EXTINF:-1,Canal 10 HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,Telpin
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/.m3u8
+#EXTINF:-1,Canal 26 HD
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1,TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:-1,CANAL ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+#EXTINF:-1,TV CHILE HD
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+#EXTINF:-1,NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
+#EXTINF:-1,CHILEVISION HD
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+#EXTINF:-1,MOVISTAR ANTENA 3 HD
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,CDO PREMIUM HD
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1,DEPORT TV HD
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8?
+#EXTINF:-1,COLOMBIA:CARACOL HD
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1,COLOMBIA:RCN HD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1,COLOMBIA:Red+ HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/Stream(02)/index.m3u8
+#EXTINF:-1,RCN | HD
+http://tecnotv.info/channel/rcn
+#EXTINF:-1,CARACOL TV | HD
+http://tecnotv.info/channel/caracol
+#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/06/11.png" group-title="DEPORTES", DIRECTV SPORTS
+http://usuarios.club/usuarios/src5/DirectTVSports/iptv/club.m3u8
+#EXTINF:-1,TOP LATINO
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:-1,MIAMI TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1,CDO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w1023111765.m3u8
+#EXTINF:-1,TELEMUNDO LATINO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1,AZ HONDURAS
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1,FOX SPORTS ar
+http://23.237.22.7/stream.get/fox_sports_arg.ts
+#EXTINF:-1,AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,CABLEONDA SPORT
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+#EXTINF:-1,COS FC SPORT
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+#EXTINF:-1,EUROSPORT 1 | HD
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1,TELEMUNDO 51 HD
+http://tecnotv.info/channel/tmundo51
+#EXTINF:-1,TELEMUNDO 51
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on
+#EXTINF:-1,RCN | SD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1,CARACOL TV | SD
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1, TELEMUNDO 51 Miami
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1,ANIMAX
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,PakaPaka
+http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8
+#EXTINF:-1,LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1,CLASICOS ACS
+http://us1.edge.grupoz.cl/acsnetwork/live/chunklist_w1826949676.m3u8
+#EXTINF:-1,BOING
+http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8
+#EXTINF:-1,TVPERU
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1,LA_SD: SUN Channel
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/3474.m3u8
+#EXTINF:-1,LA_SD:TODO DEPORTES HONDURAS
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4814.m3u8
+#EXTINF:-1,LA_SD: El GOURMET
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4969.m3u8
+#EXTINF:-1,LA_SD:LIFETIME
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4972.m3u8
+#EXTINF:-1,LA_SD:FILM ZONE
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4959.m3u8
+#EXTINF:-1,LA_SD:NICK Jr
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4976.m3u8
+#EXTINF:-1,LA_SD:NICKELODEON
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4978.m3u8
+#EXTINF:-1,LA_SD:Telemusica
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/615.m3u8
+#EXTINF:-1,LA_SD: VPI Venezolano
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/8679.m3u8
+#EXTINF:-1,LA_SD:AMC
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4934.m3u8
+#EXTINF:-1,LA_SD:A&E
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4933.m3u8
+#EXTINF:-1,LA_SD:RCN
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/6375.m3u8
+#EXTINF:-1,LA_SD:BOOMERANG
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4936.m3u8
+#EXTINF:-1,LA_SD:AXN
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4844.m3u8
+#EXTINF:-1,LA_SD:CINECANAL
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4939.m3u8
+#EXTINF:-1,LA_SD:ANIMAL PLANET
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4843.m3u8
+#EXTINF:-1,LA_SD:Las Estrellas MEX
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/8655.m3u8
+#EXTINF:-1,LA_SD:CNN ESPANOL
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10304.m3u8
+#EXTINF:-1,LA_SD:CINEMAX
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4850.m3u8
+#EXTINF:-1,LA_SD:CARTOON NETWORK
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4938.m3u8
+#EXTINF:-1,LA_SD:Canal de las Estrellas
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/434.m3u8
+#EXTINF:-1,LA_SD:GOLDEN
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4968.m3u8
+#EXTINF:-1,LA_SD:HBO
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4994.m3u8
+#EXTINF:-1,LA_SD:HBO 2
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4914.m3u8
+#EXTINF:-1,LA_SD:HBO FAMILY
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4992.m3u8
+#EXTINF:-1,LA_SD:HBO PLUS
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4996.m3u8
+#EXTINF:0,LA_SD:HBO Signature
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4997.m3u8
+#EXTINF:0,LA_SD:MAX PRIME ESTE
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/6323.m3u8
+#EXTINF:0,LA_SD:FOX ACTION
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4873.m3u8
+#EXTINF:0,LA_SD:FOX MOVIES
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4878.m3u8
+#EXTINF:0,LA_SD:FOX FAMILY
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/6325.m3u8
+#EXTINF:0,LA_SD:FOX CLASSIC
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4962.m3u8
+#EXTINF:0,LA_SD:FOX CINEMA
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4961.m3u8
+#EXTINF:0,LA_SD:FOX SERIES
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4960.m3u8
+#EXTINF:0,LA_SD:FOX COMEDY
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10306.m3u8
+#EXTINF:0,LA_SD:DISCOVERY H&H
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4943.m3u8
+#EXTINF:0,LA_SD:DISCOVERY CIVILIZATION
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4945.m3u8
+#EXTINF:0,LA_SD:DISCOVERY TURBO
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4951.m3u8
+#EXTINF:0,LA_SD:DISNEY JR
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4953.m3u8
+#EXTINF:0,LA_SD:DE PELICULA
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4942.m3u8
+#EXTINF:0,LA_SD:E! Entertaiments
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4998.m3u8
+#EXTINF:0,LA_SD:FOX
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4876.m3u8
+#EXTINF:0,LA_SD:FX
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4965.m3u8
+#EXTINF:0,LA_SD:FOX LIFE
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4963.m3u8
+#EXTINF:0,LA_SD:ESPN
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4956.m3u8
+#EXTINF:0,LA_SD:ESPN 2
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4868.m3u8
+#EXTINF:0,LA_SD:ESPN 3
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4957.m3u8
+#EXTINF:0,LA_SD:FOX SPORT
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4879.m3u8
+#EXTINF:0,LA_SD:FOX SPORT 2
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4964.m3u8
+#EXTINF:0,LA_SD:SUR_ESPN 2
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29279.m3u8
+#EXTINF:0,LA_SD:SUR_ESPN 3
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29280.m3u8
+#EXTINF:-1,LA_SD:GOLTV
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4542.m3u8
+#EXTINF:0,LA_SD:CDF Premium
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/5001.m3u8
+#EXTINF:0,LA_SD:WIN SPORT
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/5010.m3u8
+#EXTINF:0,LA_SD:Directv Sport 2_SD
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/9984.m3u8
+#EXTINF:0,LA_SD:Directv Sport 2_SD_L
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/9985.m3u8
+#EXTINF:0,LA_SD:Directv Sport +_SD
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/9981.m3u8
+#EXTINF:0,LA_SD:Directv Sport + _SD_L
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/9982.m3u8
+#EXTINF:0,LA_SD:CNT SPORT
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10375.m3u8
+#EXTINF:0,LA_SD:CNT SPORTS PPV 2
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10376.m3u8
+#EXTINF:0,LA_SD:FOX SPORTS COLOMBIA
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10371.m3u8
+#EXTINF:0,LA_SD:MOVISTAR DEPORTES
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10366.m3u8
+#EXTINF:0,LA_SD:MOVISTAR PLUS
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10367.m3u8
+#EXTINF:0,LA_SD:ESPN PLUS
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/11128.m3u8
+#EXTINF:0,LA_SD:CDF BASICO
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/11126.m3u8
+#EXTINF:0,LA_SD:Gol TV PERU
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/11131.m3u8
+#EXTINF:0,LA_SD:PE_CMD
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/11135.m3u8
+#EXTINF:0,LA_SD:Directv Sport 1_SD
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/11453.m3u8
+#EXTINF:0,LA_SD:Directv Sport 1_SD_L
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/11452.m3u8
+#EXTINF:0,LA_SD:EC_ETC TV ECUADOR
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/11130.m3u8
+#EXTINF:0,LA_SD:NBC
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/11125.m3u8
+#EXTINF:0,LA_SD:HISTORY CH
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4887.m3u8
+#EXTINF:0,LA_SD:H2
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4970.m3u8
+#EXTINF:0,LA_SD:DISCOVERY CHANNEL
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10357.m3u8
+#EXTINF:0,LA_SD:DISCOVERY CIVILIZATION_
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10373.m3u8
+#EXTINF:0,LA_SD:DISNEY CHANNEL_
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10374.m3u8
+#EXTINF:0,LA_SD:DISCOVERY CH
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4944.m3u8
+#EXTINF:0,LA_SD:DISNEY CHANNEL
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4863.m3u8
+#EXTINF:0,LA_SD:DISNEY XD
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4954.m3u8
+#EXTINF:0,LA_SD:TOONCAST
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4986.m3u8
+#EXTINF:0,LA_SD:TCM
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4983.m3u8
+#EXTINF:0,LA_SD:WARNER
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4913.m3u8
+#EXTINF:0,LA_SD:SPACE
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4979.m3u8
+#EXTINF:0,LA_SD:Tru Tv
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4987.m3u8
+#EXTINF:0,LA_SD:PARAMOUNT
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/6372.m3u8
+#EXTINF:0,LA_SD:TNT
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4985.m3u8
+#EXTINF:0,LA_SD:TNT SERIES
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4905.m3u8
+#EXTINF:0,LA_SD:UNIVERSAL
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4911.m3u8
+#EXTINF:0,LA_SD:STUDIO UNIVERSAL
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4980.m3u8
+#EXTINF:0,LA_SD:SONY
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4897.m3u8
+#EXTINF:0,LA_SD:Azteca 13
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/436.m3u8
+#EXTINF:0,LA_SD:TELEMUNDO
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/473.m3u8
+#EXTINF:0,LA_SD:TBS VERYFUNNY
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4982.m3u8
+#EXTINF:0,LA_SD:SYFY
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4981.m3u8
+#EXTINF:0,LA_SD:NAT GEO
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4975.m3u8
+#EXTINF:0,LA_SD:NAT GEO WILD
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4892.m3u8
+#EXTINF:0,LA_SD:TLC
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4950.m3u8
+#EXTINF:0,LA_SD:ID
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4946.m3u8
+#EXTINF:0,LA_SD:MTV
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/6373.m3u8
+#EXTINF:0,LA_SD:PE_AMERICA TV
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10337.m3u8
+#EXTINF:0,LA_SD:PE_ATV
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10336.m3u8
+#EXTINF:0,LA_SD:PE_CANAL N
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10340.m3u8
+#EXTINF:0,LA_SD:PE_LATINA
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10341.m3u8
+#EXTINF:0,LA_SD:PE_PANAMERICANA
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10338.m3u8
+#EXTINF:0,LA_SD:PE_PERU MAGICO
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10349.m3u8
+#EXTINF:0,LA_SD:PE_PLUS TV
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10346.m3u8
+#EXTINF:0,LA_SD:PE_TNP
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10345.m3u8
+#EXTINF:0,LA_SD:EC_ECUAVISA
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10352.m3u8
+#EXTINF:0,LA_SD:EC_GAMATV
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10354.m3u8
+#EXTINF:0,LA_SD:EL TRECE
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10353.m3u8
+#EXTINF:0,LA_SD:HTV
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10361.m3u8
+#EXTINF:0,LA_SD:INTI
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/10330.m3u8
+
+#EXTINF:-1,ESPAÑA
+
+#EXTINF:-1,LA1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1,TVE LA 1 HD  IPTVultra.com [1440x1088]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30028.ts
+#EXTINF:-1,LA1 HD  IPTVultra.com [1088x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30280.ts
+#EXTINF:-1,LA2  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30281.ts
+#EXTINF:-1,TVE LA 1 HD  IPTVultra.com [1440x1088]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29045.ts
+#EXTINF:-1,TELECINCO HD  IPTVultra.com [1088x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29099.ts
+#EXTINF:-1,TELECINCO | HD
+http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
+#EXTINF:-1,CUATRO | HD
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
+#EXTINF:-1,ANTENA3 | HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,LA SEXTA | HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-p.m3u8
+#EXTINF:-1,TV GALICIA  IPTVultra.com [704x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30282.ts
+#EXTINF:-1,FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1,24H TV
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
+#EXTINF:-1,33 CATALÁN
+http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+#EXTINF:-1,TV MURCIA
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+#EXTINF:-1,GALICIA TV  IPTVultra.com [640x480]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30021.ts
+#EXTINF:-1,IBERALIA TV  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30020.ts
+#EXTINF:-1,ANDALUCIA TV  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30283.ts
+#EXTINF:-1,FDF  IPTVultra.com [1280x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30026.ts
+#EXTINF:-1,Viajar HD  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29100.ts
+#EXTINF:-1,TAQUILLA5  IPTVultra.com [768x432]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29081.ts
+#EXTINF:-1,TV3 CATALUÑA HD  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29047.ts
+#EXTINF:-1,NOVA  IPTVultra.com [1280x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29006.ts
+#EXTINF:-1,NEOX | HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,MOVISTAR MEGA ES HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8
+#EXTINF:-1,CUATRO HD  IPTVultra.com [1280x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29023.ts
+#EXTINF:-1,CALLE 13 HD  IPTVultra.com [1088x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29092.ts
+#EXTINF:-1,CRIMEN y INVESTIGATION  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29069.ts
+#EXTINF:-1,ENERGY  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29020.ts
+#EXTINF:-1,HISTORIA  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29017.ts
+#EXTINF:-1,NAT GEO WILD  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29009.ts
+#EXTINF:-1,CANAL COCINA  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29027.ts
+#EXTINF:-1,CRIMEN y INVESTIGATION  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29024.ts
+#EXTINF:-1,FOX LIFE SPAIN
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
+#EXTINF:-1,FOX SPAIN
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:-1,COSMO SPAIN
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
+#EXTINF:-1,AXN WHITE SPAIN
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1,MOVISTAR #0
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/611/index.m3u8
+#EXTINF:-1,FOX LIFE  IPTVultra.com [1920x1088]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29018.ts
+#EXTINF:-1,AXN White HD  IPTVultra.com [1280x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29033.ts
+#EXTINF:-1,TNT  IPTVultra.com [1088x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29000.ts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+#EXTINF:-1,ATRESERIES | HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29061.ts
+#EXTINF:-1,COMEDY CENTRAL  IPTVultra.com [1920x1088]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29025.ts
+#EXTINF:-1,SYFY  IPTVultra.com [1088x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29004.ts
+#EXTINF:-1,AMC  IPTVultra.com [960x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30024.ts
+#EXTINF:-1,DIVINITY  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30022.ts
+#EXTINF:-1,CANAL ORBE 21  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30291.ts
+#EXTINF:-1,NON STOP PEOPLE  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30288.ts
+#EXTINF:-1,DIVINITY | HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1,AXN HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+#EXTINF:-1,HOLLYWOOD HD  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29096.ts
+#EXTINF:-1,TCM HD  IPTVultra.com [1088x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30284.ts
+#EXTINF:-1,COSMO HD  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29093.ts
+#EXTINF:-1,MTV ESPAÑA  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29068.ts
+#EXTINF:-1,VH1  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30290.ts
+#EXTINF:-1,MEZZO  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30289.ts
+#EXTINF:-1,MTV
+http://85.132.78.6:1935/live/muztv.stream/index.m3u8
+#EXTINF:-1,MOVISTAR DISNEY JUNIOR
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/604/index.m3u8
+#EXTINF:-1,NICKELODEON HD  IPTVultra.com [1920x1088]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29007.ts
+#EXTINF:-1,DISNEY XD  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29021.ts
+#EXTINF:-1,DISNEY CHANNEL  IPTVultra.com [704x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29053.ts
+#EXTINF:-1,BABY TV  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29032.ts
+#EXTINF:-1,TVE CLAN  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29064.ts
+#EXTINF:-1,CANAL PANDA  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30286.ts
+#EXTINF:-1,CLAN TVE  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30285.ts
+#EXTINF:-1,CANAL DEPORTSP  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29028.ts
+#EXTINF:-1,BARCA TV  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30027.ts
+#EXTINF:-1,LA LIGA TV BAR  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30287.ts
+#EXTINF:-1,MULTIFUTBOLL 1  IPTVultra.com [1280x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30300.ts
+#EXTINF:-1,LA LIGA TV HD  IPTVultra.com [960x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29035.ts
+#EXTINF:-1,REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,REALMADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1,SEVILLA FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,EUROSPORT  IPTVultra.com [1440x1088]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29087.ts
+#EXTINF:-1,GOL TV HD  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29034.ts
+#EXTINF:-1,REAL MADRID TV  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30023.ts
+#EXTINF:-1,TELEDEPORTES  IPTVultra.com [720x592]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/30279.ts
+#EXTINF:-1,MOVISTAR GOLF HD  IPTVultra.com [1920x1088]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29042.ts
+#EXTINF:-1,MOVISTAR F1  IPTVultra.com [1920x1088]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29075.ts
+#EXTINF:-1,MOVISTAR MOTO GP HD  IPTVultra.com [1280x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29043.ts
+#EXTINF:-1,MOVISTAR DEPORTES 1 HD  IPTVultra.com [960x544]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29040.ts
+#EXTINF:-1,MOVISTAR MOTOGP  IPTVultra.com [1280x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29070.ts
+#EXTINF:-1,MOVISTAR FUTBOL HD  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29038.ts
+#EXTINF:-1,MOVISTAR FORMULA 1 HD  IPTVultra.com [1088x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29044.ts
+#EXTINF:-1,MOVISTAR FORMULA 1 HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+#EXTINF:-1,MOVISTAR MOTO GP
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:-1,MOVISTAR BEIN SPORTS ES HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
+#EXTINF:-1,MOVISTAR BEIN SPORTS LIGA ES HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:-1,MOVISTAR LA LIGA ES HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1,MOVISTAR F1 OPCIÓN 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:-1,MOVISTAR F1 OPCIÓN 2
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+#EXTINF:-1,MOVISTAR ACCION  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29054.ts
+#EXTINF:-1,MOVISTAR SERIES XTRA  IPTVultra.com [1280x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29011.ts
+#EXTINF:-1,RTVA  IPTVultra.com [1280x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29051.ts
+#EXTINF:-1,MOVISTAR ESTRENOS  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29013.ts
+#EXTINF:-1,MOVISTAR SERIES XTRA  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29062.ts
+#EXTINF:-1,MOVISTAR DCINE  IPTVultra.com [1280x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29056.ts
+#EXTINF:-1,MOVISTAR XTRA  IPTVultra.com [1280x720]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29057.ts
+#EXTINF:-1,MOVISTAR SERIES XTRA  IPTVultra.com [1920x1088]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29058.ts
+#EXTINF:-1,MOVISTAR COMEDIA HD   IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29055.ts
+#EXTINF:-1,MOVISTAR ESTRENOS  IPTVultra.com [720x576]
+http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/29059.ts
+#EXTINF:-1,MOVISTAR ACCION
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
+#EXTINF:-1,MOVISTAR ACCION HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
+#EXTINF:-1,MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+#EXTINF:-1,MOVISTAR SERIE EXTRA
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+
+#EXTINF:-1,PERU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/America_Televisi%C3%B3n-logo.svg/2000px-America_Televisi%C3%B3n-logo.svg.png" group-title="Peru", America TV
+http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/Top_Latino_TV.png/revision/latest/scale-to-width-down/240?cb=20180127154512" group-title="Peru",Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:-1,SOL TV Perú
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+#EXTINF:-1,CAPITAL TV
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
+#EXTINF:-1,TVS Satelital
+http://181.198.10.23:1935/live2/smil:teradek.smil/playlist.m3u8
+#EXTINF:-1,SOL TV
+http://wowzaserver.net:1935/vivo21/vivo21/chunklist_w755294508.m3u8
+#EXTINF:-1,TV COSMOS PERU
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
+#EXTINF:-1,DIGITAL TV PERU HD
+http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on#EXTM3U
+#EXTINF:-1,BHTV PERU HD
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8#EXTM3U
+#EXTINF:-1,CAPITAL TV
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8?iptvgratis?chile.m3u8#EXTM3U
+#EXTINF:-1,tvg-logo="http://2.bp.blogspot.com/-YEjIIj8xuXo/WCsRZwvXK_I/AAAAAAAAnC4/C1Rdee9JTR4c25aDx20a-0BDqVtsl7NjwCLcB/s300/megatv-megavision-chile.png"group-title="Peru",Megatv
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://www.fulltelevisionhd.net/wp-content/uploads/2013/02/ovacion-300x226.jpg"group-title="Peru",Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://tv.wurtlitzer.com/imagenes/canales/internacional/centraltvperu.png" group-title="Peru",Central TV HD
+#EXTGRP:Peru
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/monterricotv.png"group-title="Peru",Monterrico TV HD
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Capital_tv.png"1 group-title="Peru",Capital tv
+http://bit.ly/2CxI7AO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TBSA_3igV6xznAdV1myOElG2zsSPhrEGa3cYyBi5R13z-5W1"group-title="Peru",TVPERU
+http://bit.ly/2CHy4fM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png"group-title="Peru",Sol TV
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="Peru", Digital TV Peru HD
+http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/yBX7ApyGx3c/hqdefault.jpg"group-title="Peru", BHtv HD
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLur/cf2e6a6f87.png" group-title="DEPORTES", TDN
+http://usuarios.club/usuarios/src5/TDN/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLw0/cf67511fa3.png" group-title="DEPORTES", UNIVISION TDN HD
+http://usuarios.club/usuarios/src5/UnivisionTDN/iptv/club.m3u8
+#EXTINF:-1, UNIVISION DEPORTES HD
+http://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_1600_ipad.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/q9uFo/422344b611.png" group-title="DEPORTES", GOLTV HD
+http://usuarios.club/usuarios/src5/GolTVHD/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_06/large.TNTSPORTS2017.png.c70c3bc2a09f9380c8b6d77bb081881f.png" group-title="DEPORTES", TNT SPORTS HD
+http://usuarios.club/usuarios/src5/TNTSports/iptv/club.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Lda3xv_LpuM/hqdefault.jpg"group-title="Peru", Antares TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,ARENA SPORT1
+http://66.70.129.43:8080/Arena1-SRB/index.m3u8
+#EXTINF:-1,beIN Sport Español 2
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:-1,TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,beIN LaLiga opci처n 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:-1,Bein LaLiga opci처n 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+#EXTINF:-1,beIN LaLiga opci처n 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:-1,LaLiga TV opci처n 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1,LaLiga Tv opci처n 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/581/index.m3u8
+#EXTINF:-1,LaLiga TV opci처n 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
+#EXTINF:-1,ARENA SPORT 1 HR
+http://46.40.5.99:8000/arena_1_high
+#EXTINF:-1,ARENA SPORT 2 HR
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-1,ARENA SPORT 3 HR
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1,ARENA SPORT 4 HR
+http://46.40.5.99:8000/arena_4_high
+#EXTINF:-1,CINE PREMIUM:TNT HD
+http://tvpremiumhd.club/lista-gratuita/fox/s52.ts
+#EXTINF:-1,ENTRETENIMIENTO:TRU TV HD
+http://tvpremiumhd.club/lista-gratuita/fox/s202.ts
+#EXTINF:-1,CINE PREMIUM:Golden Plus HD
+http://tvpremiumhd.club/lista-gratuita/fox/s211.ts
+#EXTINF:-1,ENTRETENIMIENTO:AE MUNDO HD
+http://tvpremiumhd.club/lista-gratuita/fox/s24.ts
+#EXTINF:-1,TV USA:ALJAZEERA HD
+http://tvpremiumhd.club/lista-gratuita/fox/s34.ts
+#EXTINF:-1,ENTRETENIMIENTO:AMC HD
+http://tvpremiumhd.club/lista-gratuita/fox/s189.ts
+#EXTINF:-1,ENTRETENIMIENTO:ANIMAL PLANET HD
+http://tvpremiumhd.club/lista-gratuita/fox/s111.ts
+#EXTINF:-1,ENTRETENIMIENTO:AXN HD
+http://tvpremiumhd.club/lista-gratuita/fox/s89.ts
+#EXTINF:-1,TV MEXICO:AZCORAZON HD
+http://tvpremiumhd.club/lista-gratuita/fox/s191.ts
+#EXTINF:-1,TV MEXICO:AZMUNDO HD
+http://tvpremiumhd.club/lista-gratuita/fox/s95.ts
+#EXTINF:-1,INFANTIL:BABY TV
+http://tvpremiumhd.club/lista-gratuita/fox/s192.ts
+#EXTINF:-1,TV USA:BBC WORLD
+http://tvpremiumhd.club/lista-gratuita/fox/s39.ts
+#EXTINF:-1,TV USA:BLOOMBERG
+http://tvpremiumhd.club/lista-gratuita/fox/s65.ts
+#EXTINF:-1,ENTRETENIMIENTO:CANAL CLARO HD
+http://tvpremiumhd.club/lista-gratuita/fox/s110.ts
+#EXTINF:-1,TV MEXICO:LAS ESTRELLAS
+http://tvpremiumhd.club/lista-gratuita/fox/s100.ts
+#EXTINF:-1,INFANTIL:CARTOON NETWORK HD
+http://tvpremiumhd.club/lista-gratuita/fox/s57.ts
+#EXTINF:-1,CINE PREMIUM:CINECANAL HD
+http://tvpremiumhd.club/lista-gratuita/fox/s67.ts
+#EXTINF:-1,CINE PREMIUM:CINELATINO
+http://tvpremiumhd.club/lista-gratuita/fox/s58.ts
+#EXTINF:-1,CINE PREMIUM:CINEMAX HD
+http://tvpremiumhd.club/lista-gratuita/fox/s90.ts
+#EXTINF:-1,CINE PREMIUM:CINEMA DINAMITA
+http://tvpremiumhd.club/lista-gratuita/fox/s104.ts
+#EXTINF:-1,CINE PREMIUM:CLARO CINEMA
+http://tvpremiumhd.club/lista-gratuita/fox/s49.ts
+#EXTINF:-1,ENTRETENIMIENTO:CNN ESPANOL HD
+http://tvpremiumhd.club/lista-gratuita/fox/s74.ts
+#EXTINF:-1,ENTRETENIMIENTO:CNN INTERNACIONAL HD
+http://tvpremiumhd.club/lista-gratuita/fox/s28.ts
+#EXTINF:-1,ENTRETENIMIENTO:COMEDY CENTRAL HD
+http://tvpremiumhd.club/lista-gratuita/fox/s190.ts
+#EXTINF:-1,ENTRETENIMIENTO:CONCERT CHANNEL HD
+http://tvpremiumhd.club/lista-gratuita/fox/s87.ts
+#EXTINF:-1,ENTRETENIMIENTO:DHE HD
+http://tvpremiumhd.club/lista-gratuita/fox/s32.ts
+#EXTINF:-1,ENTRETENIMIENTO:DISCOVERY CHANNEL HD
+http://tvpremiumhd.club/lista-gratuita/fox/s80.ts
+#EXTINF:-1,ENTRETENIMIENTO:DISCOVERY HOME HEALTH HD
+http://tvpremiumhd.club/lista-gratuita/fox/s81.ts
+#EXTINF:-1,ENTRETENIMIENTO:DISCOVERY KIDS HD
+http://tvpremiumhd.club/lista-gratuita/fox/s41.ts
+#EXTINF:-1,ENTRETENIMIENTO:DISCOVERY SCIENCE
+http://tvpremiumhd.club/lista-gratuita/fox/s38.ts
+#EXTINF:-1,ENTRETENIMIENTO:DISCOVERY THEATER HD
+http://tvpremiumhd.club/lista-gratuita/fox/s68.ts
+#EXTINF:-1,ENTRETENIMIENTO:DISCOVERY TURBO
+http://tvpremiumhd.club/lista-gratuita/fox/s40.ts
+#EXTINF:-1,ENTRETENIMIENTO:DISCOVERY WORLD HD
+http://tvpremiumhd.club/lista-gratuita/fox/s69.ts
+#EXTINF:-1,INFANTIL:DISNEY HD
+http://tvpremiumhd.club/lista-gratuita/fox/s25.ts
+#EXTINF:-1,INFANTIL:DISNEY JR
+http://tvpremiumhd.club/lista-gratuita/fox/s21.ts
+#EXTINF:-1,INFANTIL:DISNEY XD
+http://tvpremiumhd.club/lista-gratuita/fox/s54.ts
+#EXTINF:-1,ENTRETENIMIENTO:DW LATINO
+http://tvpremiumhd.club/lista-gratuita/fox/s36.ts
+#EXTINF:-1,ENTRETENIMIENTO:DW AMERIKA
+http://tvpremiumhd.club/lista-gratuita/fox/s102.ts
+#EXTINF:-1,ENTRETENIMIENTO:E! ENTRETENIMIENT
+http://tvpremiumhd.club/lista-gratuita/fox/s94.ts
+#EXTINF:-1,TV RELIGION:ESNE RELIGION
+http://tvpremiumhd.club/lista-gratuita/fox/s42.ts
+#EXTINF:-1,ENTRETENIMIENTO:EUROCHANNEL
+http://tvpremiumhd.club/lista-gratuita/fox/s82.ts
+#EXTINF:-1,ENTRETENIMIENTO:FOX HD
+http://tvpremiumhd.club/lista-gratuita/fox/s105.ts
+#EXTINF:-1,ENTRETENIMIENTO:Fox Series HD
+http://tvpremiumhd.club/lista-gratuita/fox/s208.ts
+#EXTINF:-1,ENTRETENIMIENTO:FOX LIFE HD
+http://tvpremiumhd.club/lista-gratuita/fox/s59.ts
+#EXTINF:-1,CINE PREMIUM:FOX CINEMA HD
+http://tvpremiumhd.club/lista-gratuita/fox/s2.ts
+#EXTINF:-1,CINE PREMIUM:FOX PREMIUN ACTION HD
+http://tvpremiumhd.club/lista-gratuita/fox/s8.ts
+#EXTINF:-1,CINE PREMIUM:FOX PREMIUN FAMILY HD
+http://tvpremiumhd.club/lista-gratuita/fox/s7.ts
+#EXTINF:-1,CINE PREMIUM:FOX PREMIUN MOVIES HD
+http://tvpremiumhd.club/lista-gratuita/fox/s6.ts
+#EXTINF:-1,CINE PREMIUM:FOX ACTION HD
+http://tvpremiumhd.club/lista-gratuita/fox/s19.ts
+#EXTINF:-1,CINE PREMIUM:FOX FAMILY HD
+http://tvpremiumhd.club/lista-gratuita/fox/s17.ts
+#EXTINF:-1,CINE PREMIUM:FOX MOVIES HD
+http://tvpremiumhd.club/lista-gratuita/fox/s47.ts
+#EXTINF:-1,CINE PREMIUM:GOLDEN HD
+http://tvpremiumhd.club/lista-gratuita/fox/s45.ts
+#EXTINF:-1,CINE PREMIUM:GOLDEN PREMIER HD
+http://tvpremiumhd.club/lista-gratuita/fox/s46.ts
+#EXTINF:-1,ENTRETENIMIENTO:GOURMET HD
+http://tvpremiumhd.club/lista-gratuita/fox/s70.ts
+#EXTINF:-1,ENTRETENIMIENTO:HISTORY H2
+http://tvpremiumhd.club/lista-gratuita/fox/s77.ts
+#EXTINF:-1,CINE PREMIUM:HBO HD
+http://tvpremiumhd.club/lista-gratuita/fox/s198.ts
+#EXTINF:-1,CINE PREMIUM:HBO 2 HD
+http://tvpremiumhd.club/lista-gratuita/fox/s4.ts
+#EXTINF:-1,CINE PREMIUM:HBO PLUS HD
+http://tvpremiumhd.club/lista-gratuita/fox/s1.ts
+#EXTINF:-1,CINE PREMIUM:HBO SIGNATURE HD
+http://tvpremiumhd.club/lista-gratuita/fox/s5.ts
+#EXTINF:-1,CINE PREMIUM:HBO FAMILY HD
+http://tvpremiumhd.club/lista-gratuita/fox/s50.ts
+#EXTINF:-1,España:13tv
+http://usuarios.club/usuarios/src4/13tv/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:A&E
+http://usuarios.club/usuarios/src1/AEHD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:A&E (Opcion 2)
+http://usuarios.club/usuarios/src2/AE_MUNDO_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:A&E (720p)
+http://usuarios.club/usuarios/src2/AE_MUNDO_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:A3Series
+http://usuarios.club/usuarios/src4/A3Series/iptv/club.m3u8
+#EXTINF:-1,Noticias:ADN 40
+http://usuarios.club/usuarios/src4/ADN40/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Alf 24/7
+http://usuarios.club/usuarios/src3/Alf/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:AMC
+http://usuarios.club/usuarios/src1/AMC/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:AMC (Opcion 2)
+http://usuarios.club/usuarios/src2/AMC_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:AMC (720p)
+http://usuarios.club/usuarios/src2/AMC_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Cultura:Animal Planet
+http://usuarios.club/usuarios/src1/AnimalPlanet/iptv/club.m3u8
+#EXTINF:-1,Cultura:Animal Planet (Opcion 2)
+http://usuarios.club/usuarios/src2/ANIMAL_PLANET_HD/iptv/club.m3u8
+#EXTINF:-1,Cultura:Animal Planet (720p)
+http://usuarios.club/usuarios/src2/ANIMAL_PLANET_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:Anime 24H
+http://usuarios.club/usuarios/src4/Anime24H/iptv/club.m3u8
+#EXTINF:-1,España:Antena 3
+http://usuarios.club/usuarios/src4/Antena3/iptv/club.m3u8
+#EXTINF:-1,España:Antena 3 (Opcion 2)
+http://usuarios.club/usuarios/src2/ANTENA3/iptv/club.m3u8
+#EXTINF:-1,España:Antena 3 (720p)
+http://usuarios.club/usuarios/src2/ANTENA3/iptv/club/hd.m3u8
+#EXTINF:-1,Brasil:Aparecida Brasil
+http://usuarios.club/usuarios/src4/AparecidaBrasil/iptv/club.m3u8
+#EXTINF:-1,Noticias:Aristegui Noticias
+http://usuarios.club/usuarios/src4/AristeguiNoticias/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:AXN
+http://usuarios.club/usuarios/src5/AXN/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:AXN (Opcion 2)
+http://usuarios.club/usuarios/src2/AXN_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:AXN (720p)
+http://usuarios.club/usuarios/src2/AXN_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:AyM Sports
+http://usuarios.club/usuarios/src5/AyMSports/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Az Cinema
+http://usuarios.club/usuarios/src5/AzCinema/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Az Clic
+http://usuarios.club/usuarios/src5/AzClic/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Az Corazón
+http://usuarios.club/usuarios/src1/AzCorazon/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Az Corazón (Opcion 2)
+http://usuarios.club/usuarios/src2/AZCORAZON_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Az Corazón (720p)
+http://usuarios.club/usuarios/src2/AZCORAZON_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:Az Mundo (Opcion 2)
+http://usuarios.club/usuarios/src2/AZMUNDO_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Az Mundo (720p)
+http://usuarios.club/usuarios/src2/AZMUNDO_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Mexico:Azteca +
+http://usuarios.club/usuarios/src4/AztecaMas/iptv/club.m3u8
+#EXTINF:-1,Mexico:Azteca 13
+http://usuarios.club/usuarios/src4/Azteca13/iptv/club.m3u8
+#EXTINF:-1,Mexico:Azteca 13 Op. 2
+http://usuarios.club/usuarios/src1/Azteca13_2/iptv/club.m3u8
+#EXTINF:-1,Mexico:Azteca 7
+http://usuarios.club/usuarios/src1/Azteca7/iptv/club.m3u8
+#EXTINF:-1,Mexico:Azteca 7 Op. 2
+http://usuarios.club/usuarios/src4/Azteca7/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Baby TV
+http://usuarios.club/usuarios/src5/BabyTV/iptv/club.m3u8
+#EXTINF:-1,Musica:Bandamax
+http://usuarios.club/usuarios/src1/Bandamax/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:BBC Entertainment
+http://usuarios.club/usuarios/src1/BBCEntertainment/iptv/club.m3u8
+#EXTINF:-1,Deportes:BeinSports
+http://usuarios.club/usuarios/src5/BeinSports/iptv/club.m3u8
+#EXTINF:-1,Deportes:BeinSports 1
+http://usuarios.club/usuarios/src5/Deportes1/iptv/club.m3u8
+#EXTINF:-1,Deportes:BeinSports Ñ
+http://usuarios.club/usuarios/src5/BeinSportsN/iptv/club.m3u8
+#EXTINF:-1,Deportes:BeinSports Ñ HD
+http://usuarios.club/usuarios/src5/Bein/iptv/club.m3u8
+#EXTINF:-1,Noticias:Bloomberg
+http://usuarios.club/usuarios/src4/Bloomberg/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Bob Esponja 24/7
+http://usuarios.club/usuarios/src3/BobEsponja/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Boomerang
+http://usuarios.club/usuarios/src1/Boomerang/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Boomerang (Opcion 2)
+http://usuarios.club/usuarios/src2/BOOMERANG/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Boomerang (720p)
+http://usuarios.club/usuarios/src2/BOOMERANG/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:Caballeros del Zodiaco 24/7
+http://usuarios.club/usuarios/src3/CaballerosDelZodiaco/iptv/club.m3u8
+#EXTINF:-1,Colombia:Cali TV
+http://usuarios.club/usuarios/src4/CaliTV/iptv/club.m3u8
+#EXTINF:-1,Nicaragua:Canal 2 Televicentro
+http://usuarios.club/usuarios/src4/Canal2Televicentro/iptv/club.m3u8
+#EXTINF:-1,Mexico:Canal 22
+http://usuarios.club/usuarios/src4/Canal22/iptv/club.m3u8
+#EXTINF:-1,Mexico:Canal 5
+http://usuarios.club/usuarios/src1/Canal5/iptv/club.m3u8
+#EXTINF:-1,Mexico:Canal de las Estrellas
+http://usuarios.club/usuarios/src4/CanaldelasEstrellas2/iptv/club.m3u8
+#EXTINF:-1,Mexico:Canal de las Estrellas
+http://usuarios.club/usuarios/src5/CanaldelasEstrellas/iptv/club.m3u8
+#EXTINF:-1,Mexico:Canal de las Estrellas (Opcion 2)
+http://usuarios.club/usuarios/src2/CANAL_DE_LAS_ESTRELLAS/iptv/club.m3u8
+#EXTINF:-1,Mexico:Canal de las Estrellas (720p)
+http://usuarios.club/usuarios/src2/CANAL_DE_LAS_ESTRELLAS/iptv/club/hd.m3u8
+#EXTINF:-1,Mexico:Canal de las Estrellas Latinoamerica
+http://usuarios.club/usuarios/src4/CanaldelasEstrellas2/iptv/club.m3u8
+#EXTINF:-1,España:Canal+ Accion
+http://usuarios.club/usuarios/src5/MoviAccion/iptv/club.m3u8
+#EXTINF:-1,Deportes:Canal+ Toros
+http://usuarios.club/usuarios/src5/Toros/iptv/club.m3u8
+#EXTINF:-1,Musica:Cantinazo TV
+http://usuarios.club/usuarios/src4/CantinazoTV/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Cantinflas 24/7
+http://usuarios.club/usuarios/src3/Cantinflas/iptv/club.m3u8
+#EXTINF:-1,Mexico:Capital 21 CDMX
+http://usuarios.club/usuarios/src4/Capital21CDMX/iptv/club.m3u8
+#EXTINF:-1,Musica:Capital TV
+http://usuarios.club/usuarios/src4/CapitalTV/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Caracol
+http://usuarios.club/usuarios/src5/Caracol/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Caracol (Opcion 2)
+http://usuarios.club/usuarios/src2/CARACOL_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Caracol (720p)
+http://usuarios.club/usuarios/src2/CARACOL_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:Caracol Internacional (Opcion 2)
+http://usuarios.club/usuarios/src2/CARACOL_INT/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Caracol Internacional (720p)
+http://usuarios.club/usuarios/src2/CARACOL_INT/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:Caracol Op. 2
+http://usuarios.club/usuarios/src4/Caracol2/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Cartoon Network
+http://usuarios.club/usuarios/src1/CartoonNetwork/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Cartoon Network (Opcion 2)
+http://usuarios.club/usuarios/src2/CARTOON_NETWORK_HD/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Cartoon Network (720p)
+http://usuarios.club/usuarios/src2/CARTOON_NETWORK_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Costa Rica:CB24 Noticias
+http://usuarios.club/usuarios/src4/CB24Noticias/iptv/club.m3u8
+#EXTINF:-1,Infantiles:CBeebies
+http://usuarios.club/usuarios/src1/CBeebies/iptv/club.m3u8
+#EXTINF:-1,Deportes:CDF Premium
+http://usuarios.club/usuarios/src5/CDFPremium/iptv/club.m3u8
+#EXTINF:-1,Deportes:CDN Sportmax
+http://usuarios.club/usuarios/src5/CDNSportmax/iptv/club.m3u8
+#EXTINF:-1,Deportes:CDO
+http://usuarios.club/usuarios/src5/CDO/iptv/club.m3u8
+#EXTINF:-1,Deportes:CDO Premium
+http://usuarios.club/usuarios/src5/CDOPremium/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Chapulin Colorado 24/7
+http://usuarios.club/usuarios/src3/ChapulinColorado/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Chespirito 24/7
+http://usuarios.club/usuarios/src3/Chespirito/iptv/club.m3u8
+#EXTINF:-1,Colombia:Chilevision
+http://usuarios.club/usuarios/src4/Chilevision/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Cine Latino (Opcion 2)
+http://usuarios.club/usuarios/src2/CINELATINO/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Cine Latino (720p)
+http://usuarios.club/usuarios/src2/CINELATINO/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Cinecanal (Opcion 2)
+http://usuarios.club/usuarios/src2/CINECANAL_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Cinecanal (720p)
+http://usuarios.club/usuarios/src2/CINECANAL_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Cinecanal+
+http://usuarios.club/usuarios/src1/CinecanalHD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Cinema Dinamita (Opcion 2)
+http://usuarios.club/usuarios/src2/CINEMA_DINAMITA/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Cinema Dinamita (720p)
+http://usuarios.club/usuarios/src2/CINEMA_DINAMITA/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Cinemax
+http://usuarios.club/usuarios/src1/Cinemax/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Cinemax (Opcion 2)
+http://usuarios.club/usuarios/src2/CINEMAX/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Cinemax (720p)
+http://usuarios.club/usuarios/src2/CINEMAX/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:Claro Sports
+http://usuarios.club/usuarios/src5/ClaroSports/iptv/club.m3u8
+#EXTINF:-1,Deportes:Claro Sports (Opcion 2)
+http://usuarios.club/usuarios/src2/CLARO_SPORTS_COL_HD/iptv/club.m3u8
+#EXTINF:-1,Deportes:Claro Sports (720p)
+http://usuarios.club/usuarios/src2/CLARO_SPORTS_COL_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Noticias:CNN en Español
+http://usuarios.club/usuarios/src5/CNNenEspanol/iptv/club.m3u8
+#EXTINF:-1,Noticias:CNN en Español (Opcion 2)
+http://usuarios.club/usuarios/src2/CNN_ESPANOL/iptv/club.m3u8
+#EXTINF:-1,Noticias:CNN en Español (720p)
+http://usuarios.club/usuarios/src2/CNN_ESPANOL/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:CNT Sports
+http://usuarios.club/usuarios/src5/CNTSports/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Comedy Central
+http://usuarios.club/usuarios/src1/ComedyCentralHD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Comedy Central (Opcion 2)
+http://usuarios.club/usuarios/src2/COMEDY_CENTRAL_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Comedy Central (720p)
+http://usuarios.club/usuarios/src2/COMEDY_CENTRAL_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:Coraje el Perro Cobarde 24/7
+http://usuarios.club/usuarios/src3/CorajeCobarde/iptv/club.m3u8
+#EXTINF:-1,Chile:CTNI
+http://usuarios.club/usuarios/src4/CTNI/iptv/club.m3u8
+#EXTINF:-1,Peliculas:De Película
+http://usuarios.club/usuarios/src1/DePelicula/iptv/club.m3u8
+#EXTINF:-1,Peliculas:De Película (Opcion 2)
+http://usuarios.club/usuarios/src2/DEPELICULA/iptv/club.m3u8
+#EXTINF:-1,Peliculas:De Película (720p)
+http://usuarios.club/usuarios/src2/DEPELICULA/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:DeporTV
+http://usuarios.club/usuarios/src4/DeporTV/iptv/club.m3u8
+#EXTINF:-1,Deportes:DirectTV Sports
+http://usuarios.club/usuarios/src5/DirectTVSports/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery Channel
+http://usuarios.club/usuarios/src1/DiscoveryChannel/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery Channel (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_CHANNEL_HD/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery Channel (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_CHANNEL_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Cultura:Discovery Civilization
+http://usuarios.club/usuarios/src1/DiscoveryCivilization/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery Civilization (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_CIVILIZATION/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery Civilization (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_CIVILIZATION/iptv/club/hd.m3u8
+#EXTINF:-1,Cultura:Discovery H&H
+http://usuarios.club/usuarios/src1/DiscoveryHH/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery H&H (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_HOME_HEALTH_HD/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery H&H (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_HOME_HEALTH_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Infantiles:Discovery Kids
+http://usuarios.club/usuarios/src1/DiscoveryKids/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Discovery Kids (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_KIDS_HD/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Discovery Kids (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_KIDS_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Cultura:Discovery SCI
+http://usuarios.club/usuarios/src1/DiscoverySCI/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery SCI (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_SCIENCE/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery SCI (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_SCIENCE/iptv/club/hd.m3u8
+#EXTINF:-1,Cultura:Discovery Theater
+http://usuarios.club/usuarios/src1/DiscoveryTheaterHD/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery Theater (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_THEATER_HD/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery Theater (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_THEATER_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Cultura:Discovery Turbo
+http://usuarios.club/usuarios/src1/DiscoveryTurbo/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery Turbo (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_TURBO/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery Turbo (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_TURBO/iptv/club/hd.m3u8
+#EXTINF:-1,Cultura:Discovery World
+http://usuarios.club/usuarios/src1/DiscoveryWorld/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery World (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_WORLD_HD/iptv/club.m3u8
+#EXTINF:-1,Cultura:Discovery World (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_WORLD_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Infantiles:Disney Channel
+http://usuarios.club/usuarios/src1/DisneyChannel/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Disney Channel (Opcion 2)
+http://usuarios.club/usuarios/src2/DISNEY_HD/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Disney Channel (720p)
+http://usuarios.club/usuarios/src2/DISNEY_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Infantiles:Disney Junior
+http://usuarios.club/usuarios/src1/DisneyJunior/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Disney Junior (Opcion 2)
+http://usuarios.club/usuarios/src2/DISNEY_JR/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Disney Junior (720p)
+http://usuarios.club/usuarios/src2/DISNEY_JR/iptv/club/hd.m3u8
+#EXTINF:-1,Infantiles:Disney XD
+http://usuarios.club/usuarios/src1/DisneyXD/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Disney XD (Opcion 2)
+http://usuarios.club/usuarios/src2/DISNEY_XD/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Disney XD (720p)
+http://usuarios.club/usuarios/src2/DISNEY_XD/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:Distrito Comedia
+http://usuarios.club/usuarios/src1/DistritoComedia/iptv/club.m3u8
+#EXTINF:-1,Musica:Djing Ibiza
+http://usuarios.club/usuarios/src4/DjingIbiza/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Doraemon 24/7
+http://usuarios.club/usuarios/src3/Doraemon/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Dragon Ball 24/7
+http://usuarios.club/usuarios/src3/DragonBall/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Dragon Ball GT 24/7
+http://usuarios.club/usuarios/src3/DragonBallGT/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Dragon Ball Super 24/7
+http://usuarios.club/usuarios/src3/DragonBallSuper/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Dragon Ball Z 24/7
+http://usuarios.club/usuarios/src4/DragonBallZ/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Dragon Ball Z 24/7 Op.2
+http://usuarios.club/usuarios/src3/DragonBallZ2/iptv/club.m3u8
+#EXTINF:-1,Noticias:DW Latinoamerica
+http://usuarios.club/usuarios/src4/DW/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:E!
+http://usuarios.club/usuarios/src1/EEntertainment/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:E! (Opcion 2)
+http://usuarios.club/usuarios/src2/E/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:E! (720p)
+http://usuarios.club/usuarios/src2/E/iptv/club/hd.m3u8
+#EXTINF:-1,Ecuador:Ecuavisa
+http://usuarios.club/usuarios/src5/Ecuavisa/iptv/club.m3u8
+#EXTINF:-1,Noticias:Efekto TV
+http://usuarios.club/usuarios/src4/EfektoTV/iptv/club.m3u8
+#EXTINF:-1,Argentina:El 13 Argentina
+http://usuarios.club/usuarios/src5/El13Argentina/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:El Chavo del 8 24/7
+http://usuarios.club/usuarios/src3/ElChavoDel8/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:El Coyote y el Correcaminos 24/7
+http://usuarios.club/usuarios/src3/ElCoyoteYElCorrecaminos/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:El Gourmet
+http://usuarios.club/usuarios/src1/ElGourmet/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:El Gourmet (Opcion 2)
+http://usuarios.club/usuarios/src2/GOURMET_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:El Gourmet (720p)
+http://usuarios.club/usuarios/src2/GOURMET_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:El Pajaro Loco 24/7
+http://usuarios.club/usuarios/src3/ElPajaroLoco/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:El Principel del Rap 24/7
+http://usuarios.club/usuarios/src3/ElPrincipeDelRap/iptv/club.m3u8
+#EXTINF:-1,Religion:Enlace Juvenil
+http://usuarios.club/usuarios/src4/EnlaceJuvenil/iptv/club.m3u8
+#EXTINF:-1,Religion:Enlace TV
+http://usuarios.club/usuarios/src4/EnlaceTV/iptv/club.m3u8
+#EXTINF:-1,Deportes:ESPN
+http://usuarios.club/usuarios/src1/ESPN/iptv/club.m3u8
+#EXTINF:-1,Deportes:ESPN (Opcion 2)
+http://usuarios.club/usuarios/src2/ESPN_HD/iptv/club.m3u8
+#EXTINF:-1,Deportes:ESPN (720p)
+http://usuarios.club/usuarios/src2/ESPN_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:ESPN +
+http://usuarios.club/usuarios/src1/ESPNHD/iptv/club.m3u8
+#EXTINF:-1,Deportes:ESPN + (Opcion 2)
+http://usuarios.club/usuarios/src2/ESPN_PLUS_HD/iptv/club.m3u8
+#EXTINF:-1,Deportes:ESPN + (720p)
+http://usuarios.club/usuarios/src2/ESPN_PLUS_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:ESPN 2
+http://usuarios.club/usuarios/src1/ESPN2/iptv/club.m3u8
+#EXTINF:-1,Deportes:ESPN 2 (Opcion 2)
+http://usuarios.club/usuarios/src2/ESPN_2_HD/iptv/club.m3u8
+#EXTINF:-1,Deportes:ESPN 2 (720p)
+http://usuarios.club/usuarios/src2/ESPN_2_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:ESPN 2 MX
+http://usuarios.club/usuarios/src1/ESPN2MX/iptv/club.m3u8
+#EXTINF:-1,Deportes:ESPN 3 (Opcion 2)
+http://usuarios.club/usuarios/src2/ESPN_3_HD/iptv/club.m3u8
+#EXTINF:-1,Deportes:ESPN 3 (720p)
+http://usuarios.club/usuarios/src2/ESPN_3_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:ESPN MX
+http://usuarios.club/usuarios/src1/ESPNMX/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Estrella TV
+http://usuarios.club/usuarios/src4/EstrellaTV/iptv/club.m3u8
+#EXTINF:-1,Noticias:Euronews
+http://usuarios.club/usuarios/src4/Euronews/iptv/club.m3u8
+#EXTINF:-1,Deportes:Eurosport
+http://usuarios.club/usuarios/src4/Eurosport/iptv/club.m3u8
+#EXTINF:-1,Deportes:Eurosport 2
+http://usuarios.club/usuarios/src4/Eurosport2/iptv/club.m3u8
+#EXTINF:-1,Religion:EWTN
+http://usuarios.club/usuarios/src4/EWTN/iptv/club.m3u8
+#EXTINF:-1,Deportes:F1 TV
+http://usuarios.club/usuarios/src5/F1TV/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Film Zone
+http://usuarios.club/usuarios/src1/FilmZoneHD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Film Zone (Opcion 2)
+http://usuarios.club/usuarios/src2/THE_FILM_ZONE_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Film Zone (720p)
+http://usuarios.club/usuarios/src2/THE_FILM_ZONE_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Noticias:Foro TV
+http://usuarios.club/usuarios/src4/ForoTV/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Fox
+http://usuarios.club/usuarios/src5/Fox/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Fox (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Fox (720p)
+http://usuarios.club/usuarios/src2/FOX_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:Fox 1 (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX1_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Fox 1 (720p)
+http://usuarios.club/usuarios/src2/FOX1_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:Fox 1 HD
+http://usuarios.club/usuarios/src1/Fox1HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Fox Action
+http://usuarios.club/usuarios/src1/FoxAction/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Fox Action (Opcion 2)
+http://usuarios.club/usuarios/src2/FOXACTION_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Fox Action (720p)
+http://usuarios.club/usuarios/src2/FOXACTION_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Fox Action MX (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_ACTION_MEXICO_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Fox Action MX (720p)
+http://usuarios.club/usuarios/src2/FOX_ACTION_MEXICO_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Fox Cinema
+http://usuarios.club/usuarios/src1/FoxCinema/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Fox Cinema (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_CINEMA_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Fox Cinema (720p)
+http://usuarios.club/usuarios/src2/FOX_CINEMA_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Fox Cinema Sub (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_CINEMA_HD_SUB/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Fox Cinema Sub (720p)
+http://usuarios.club/usuarios/src2/FOX_CINEMA_HD_SUB/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Fox Classics
+http://usuarios.club/usuarios/src1/FoxClassics/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Fox Classics (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_CLASSICS_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Fox Classics (720p)
+http://usuarios.club/usuarios/src2/FOX_CLASSICS_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Fox Comedy (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_COMEDY_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Fox Comedy (720p)
+http://usuarios.club/usuarios/src2/FOX_COMEDY_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Fox Family
+http://usuarios.club/usuarios/src5/FoxFamily/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Fox Family (Opcion 2)
+http://usuarios.club/usuarios/src2/FOXFAMILY_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Fox Family (720p)
+http://usuarios.club/usuarios/src2/FOXFAMILY_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:Fox Life
+http://usuarios.club/usuarios/src1/FoxLife/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Fox Life (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_LIFE_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Fox Life (720p)
+http://usuarios.club/usuarios/src2/FOX_LIFE_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Fox Movies
+http://usuarios.club/usuarios/src1/FoxMovies/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Fox Movies (Opcion 2)
+http://usuarios.club/usuarios/src2/FOXMOVIES_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Fox Movies (720p)
+http://usuarios.club/usuarios/src2/FOXMOVIES_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:Fox Op. 2
+http://usuarios.club/usuarios/src5/Fox2/iptv/club.m3u8
+#EXTINF:-1,Deportes:Fox Sports
+http://usuarios.club/usuarios/src1/FoxSports/iptv/club.m3u8
+#EXTINF:-1,Deportes:Fox Sports (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_SPORTS_HD/iptv/club.m3u8
+#EXTINF:-1,Deportes:Fox Sports (720p)
+http://usuarios.club/usuarios/src2/FOX_SPORTS_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:Fox Sports 2
+http://usuarios.club/usuarios/src1/FoxSports2/iptv/club.m3u8
+#EXTINF:-1,Deportes:Fox Sports 2 (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_SPORTS2_HD/iptv/club.m3u8
+#EXTINF:-1,Deportes:Fox Sports 2 (720p)
+http://usuarios.club/usuarios/src2/FOX_SPORTS2_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:Fox Sports 2 MX
+http://usuarios.club/usuarios/src1/FoxSports2MX/iptv/club.m3u8
+#EXTINF:-1,Deportes:Fox Sports 2 MX (Opcion 2)
+http://usuarios.club/usuarios/src2/FOXSP2_MX_HD/iptv/club.m3u8
+#EXTINF:-1,Deportes:Fox Sports 2 MX (720p)
+http://usuarios.club/usuarios/src2/FOXSP2_MX_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:Fox Sports 3 (Opcion 2)
+http://usuarios.club/usuarios/src2/FOX_SPORTS3_HD/iptv/club.m3u8
+#EXTINF:-1,Deportes:Fox Sports 3 (720p)
+http://usuarios.club/usuarios/src2/FOX_SPORTS3_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:Fox Sports MX
+http://usuarios.club/usuarios/src1/FoxSportsMX/iptv/club.m3u8
+#EXTINF:-1,Deportes:Fox Sports MX (Opcion 2)
+http://usuarios.club/usuarios/src2/FOXSP1_MX_HD/iptv/club.m3u8
+#EXTINF:-1,Deportes:Fox Sports MX (720p)
+http://usuarios.club/usuarios/src2/FOXSP1_MX_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:Fox Sports Premium
+http://usuarios.club/usuarios/src5/FoxSportsPremium/iptv/club.m3u8
+#EXTINF:-1,Deportes:Fox Sports Sur
+http://usuarios.club/usuarios/src5/FoxSportsSur/iptv/club.m3u8
+#EXTINF:-1,Deportes:Fox Sports Sur 2
+http://usuarios.club/usuarios/src5/FoxSportsSur2/iptv/club.m3u8
+#EXTINF:-1,Deportes:Fox Sports Sur 3
+http://usuarios.club/usuarios/src5/FoxSportsSur3/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:FX
+http://usuarios.club/usuarios/src1/FX/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:FX (Opcion 2)
+http://usuarios.club/usuarios/src2/FX_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:FX (720p)
+http://usuarios.club/usuarios/src2/FX_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Mexico:Gala TV
+http://usuarios.club/usuarios/src1/GalaTV/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Game of Thrones 24/7
+http://usuarios.club/usuarios/src3/GameOfThrones/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Garage TV
+http://usuarios.club/usuarios/src1/GarageTV/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Glitz
+http://usuarios.club/usuarios/src1/Glitz/iptv/club.m3u8
+#EXTINF:-1,Deportes:Gol TV
+http://usuarios.club/usuarios/src5/GolTV/iptv/club.m3u8
+#EXTINF:-1,Deportes:Gol TV HD
+http://usuarios.club/usuarios/src5/GolTVHD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Golden
+http://usuarios.club/usuarios/src1/GoldenHD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Golden (Opcion 2)
+http://usuarios.club/usuarios/src2/GOLDEN_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Golden (720p)
+http://usuarios.club/usuarios/src2/GOLDEN_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Golden Edge
+http://usuarios.club/usuarios/src1/GoldenEdge/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Golden Premier (Opcion 2)
+http://usuarios.club/usuarios/src2/GOLDEN_PREMIER_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Golden Premier (720p)
+http://usuarios.club/usuarios/src2/GOLDEN_PREMIER_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Cultura:H2
+http://usuarios.club/usuarios/src5/H2/iptv/club.m3u8
+#EXTINF:-1,Cultura:H2 (Opcion 2)
+http://usuarios.club/usuarios/src2/H2/iptv/club.m3u8
+#EXTINF:-1,Cultura:H2 (720p)
+http://usuarios.club/usuarios/src2/H2/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:HBO
+http://usuarios.club/usuarios/src5/HBO/iptv/club.m3u8
+#EXTINF:-1,Peliculas:HBO 2
+http://usuarios.club/usuarios/src5/HBO2/iptv/club.m3u8
+#EXTINF:-1,Peliculas:HBO 2 (Opcion 2)
+http://usuarios.club/usuarios/src2/HBO_2_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:HBO 2 (720p)
+http://usuarios.club/usuarios/src2/HBO_2_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:HBO Family
+http://usuarios.club/usuarios/src5/HBOFamily/iptv/club.m3u8
+#EXTINF:-1,Peliculas:HBO Family (Opcion 2)
+http://usuarios.club/usuarios/src2/HBO_FAMILY_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:HBO Family (720p)
+http://usuarios.club/usuarios/src2/HBO_FAMILY_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:HBO Plus
+http://usuarios.club/usuarios/src5/HBOPlus/iptv/club.m3u8
+#EXTINF:-1,Peliculas:HBO Plus (Opcion 2)
+http://usuarios.club/usuarios/src2/HBO_PLUS_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:HBO Plus (720p)
+http://usuarios.club/usuarios/src2/HBO_PLUS_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:HBO Signature (Opcion 2)
+http://usuarios.club/usuarios/src2/HBO_SIGNATURE_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:HBO Signature (720p)
+http://usuarios.club/usuarios/src2/HBO_SIGNATURE_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:HBO Sub (Opcion 2)
+http://usuarios.club/usuarios/src2/HBO_HD_SUB/iptv/club.m3u8
+#EXTINF:-1,Peliculas:HBO Sub (720p)
+http://usuarios.club/usuarios/src2/HBO_HD_SUB/iptv/club/hd.m3u8
+#EXTINF:-1,Musica:Heart TV
+http://usuarios.club/usuarios/src4/HeartTV/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Hey Arnold 24/7
+http://usuarios.club/usuarios/src3/HeyArnold/iptv/club.m3u8
+#EXTINF:-1,Cultura:History Channel
+http://usuarios.club/usuarios/src1/HistoryChannel/iptv/club.m3u8
+#EXTINF:-1,Cultura:History Channel (Opcion 2)
+http://usuarios.club/usuarios/src2/HISTORY_CHANNEL_HD/iptv/club.m3u8
+#EXTINF:-1,Cultura:History Channel (720p)
+http://usuarios.club/usuarios/src2/HISTORY_CHANNEL_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Musica:Hit TV
+http://usuarios.club/usuarios/src4/HitTV/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Hola TV
+http://usuarios.club/usuarios/src4/HolaTV/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Hola TV (Opcion 2)
+http://usuarios.club/usuarios/src2/HOLA_TV_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Hola TV (720p)
+http://usuarios.club/usuarios/src2/HOLA_TV_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Musica:HTV
+http://usuarios.club/usuarios/src5/HTV/iptv/club.m3u8
+#EXTINF:-1,Peliculas:I.Sat
+http://usuarios.club/usuarios/src1/ISat/iptv/club.m3u8
+#EXTINF:-1,Peliculas:I.Sat (Opcion 2)
+http://usuarios.club/usuarios/src2/ISAT/iptv/club.m3u8
+#EXTINF:-1,Peliculas:I.Sat (720p)
+http://usuarios.club/usuarios/src2/ISAT/iptv/club/hd.m3u8
+#EXTINF:-1,Cultura:Investigation Discovery
+http://usuarios.club/usuarios/src1/InvestigationDiscovery/iptv/club.m3u8
+#EXTINF:-1,Cultura:Investigation Discovery (Opcion 2)
+http://usuarios.club/usuarios/src2/ID_HD/iptv/club.m3u8
+#EXTINF:-1,Cultura:Investigation Discovery (720p)
+http://usuarios.club/usuarios/src2/ID_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Musica:Juce TV
+http://usuarios.club/usuarios/src4/JuceTV/iptv/club.m3u8
+#EXTINF:-1,España:La Sexta
+http://usuarios.club/usuarios/src4/LaSexta/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Lifetime
+http://usuarios.club/usuarios/src1/Lifetime/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Looney Tunes 24/7
+http://usuarios.club/usuarios/src3/LooneyTunes/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Los 3 Chiflados 24/7
+http://usuarios.club/usuarios/src3/Los3Chiflados/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Los Simpson 2 24/7
+http://usuarios.club/usuarios/src4/LosSimpson2/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Los Simpson 24/7
+http://usuarios.club/usuarios/src5/LosSimpson/iptv/club.m3u8
+#EXTINF:-1,Musica:m2o TV
+http://usuarios.club/usuarios/src4/m2oTV/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Más chic
+http://usuarios.club/usuarios/src1/Maschic/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Max Prime
+http://usuarios.club/usuarios/src5/MaxPrime/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Max Prime (Opcion 2)
+http://usuarios.club/usuarios/src2/MAX_PRIME_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Max Prime (720p)
+http://usuarios.club/usuarios/src2/MAX_PRIME_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Max Up
+http://usuarios.club/usuarios/src5/MaxUp/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Max Up (Opcion 2)
+http://usuarios.club/usuarios/src2/MAX_UP_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Max Up (720p)
+http://usuarios.club/usuarios/src2/MAX_UP_HD/iptv/club/hd.m3u8
+#EXTINF:-1,España:Mega (España)
+http://usuarios.club/usuarios/src4/MegaEspana/iptv/club.m3u8
+#EXTINF:-1,Peliculas:MegaCine HD
+http://usuarios.club/usuarios/src5/MegaCineHD/iptv/club.m3u8
+#EXTINF:-1,Musica:Mi Musica HD
+http://usuarios.club/usuarios/src4/MiMusicaHD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Miami TV
+http://usuarios.club/usuarios/src4/MiamiTV/iptv/club.m3u8
+#EXTINF:-1,Noticias:Milenio
+http://usuarios.club/usuarios/src1/Milenio/iptv/club.m3u8
+#EXTINF:-1,Deportes:MLB Network
+http://usuarios.club/usuarios/src5/MLBNetwork/iptv/club.m3u8
+#EXTINF:-1,España:Movistar Comedia
+http://usuarios.club/usuarios/src5/MoviComedia/iptv/club.m3u8
+#EXTINF:-1,Deportes:Movistar Deportes
+http://usuarios.club/usuarios/src5/MoviDeportes/iptv/club.m3u8
+#EXTINF:-1,Deportes:Movistar Deportes 2
+http://usuarios.club/usuarios/src5/MoviDeportes2/iptv/club.m3u8
+#EXTINF:-1,Deportes:Movistar Futbol
+http://usuarios.club/usuarios/src5/MoviFutbol/iptv/club.m3u8
+#EXTINF:-1,España:Movistar Xtra
+http://usuarios.club/usuarios/src5/MoviXtra/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Mr. Bean 24/7
+http://usuarios.club/usuarios/src3/MrBean/iptv/club.m3u8
+#EXTINF:-1,Musica:MTV
+http://usuarios.club/usuarios/src1/MTV/iptv/club.m3u8
+#EXTINF:-1,Musica:MTV (Opcion 2)
+http://usuarios.club/usuarios/src2/MTV_HD/iptv/club.m3u8
+#EXTINF:-1,Musica:MTV (720p)
+http://usuarios.club/usuarios/src2/MTV_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Musica:MTV Hits (Opcion 2)
+http://usuarios.club/usuarios/src2/MTV_HITS/iptv/club.m3u8
+#EXTINF:-1,Musica:MTV Hits (720p)
+http://usuarios.club/usuarios/src2/MTV_HITS/iptv/club/hd.m3u8
+#EXTINF:-1,Musica:MTV Live
+http://usuarios.club/usuarios/src1/MTVLive/iptv/club.m3u8
+#EXTINF:-1,Musica:MTV Live (Opcion 2)
+http://usuarios.club/usuarios/src2/MTV_LIVE_HD/iptv/club.m3u8
+#EXTINF:-1,Musica:MTV Live (720p)
+http://usuarios.club/usuarios/src2/MTV_LIVE_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Mexico:Multimedios
+http://usuarios.club/usuarios/src1/Multimedios/iptv/club.m3u8
+#EXTINF:-1,Peliculas:MultiPremier
+http://usuarios.club/usuarios/src5/MultiPremier/iptv/club.m3u8
+#EXTINF:-1,Peliculas:MultiPremier (Claro)
+http://usuarios.club/usuarios/src5/MULTIPREMIER/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Mundo Fox
+http://usuarios.club/usuarios/src5/MundoFox/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:MundoMax
+http://usuarios.club/usuarios/src5/MundoMax/iptv/club.m3u8
+#EXTINF:-1,Musica:Musica: 90s
+http://usuarios.club/usuarios/src5/MC_90s/iptv/club.m3u8
+#EXTINF:-1,Musica:Musica: EDM
+http://usuarios.club/usuarios/src5/MC_EDM/iptv/club.m3u8
+#EXTINF:-1,Musica:Musica: Hit List
+http://usuarios.club/usuarios/src5/MC_HitList/iptv/club.m3u8
+#EXTINF:-1,Musica:Musica: Mexicana
+http://usuarios.club/usuarios/src5/MC_Mexicana/iptv/club.m3u8
+#EXTINF:-1,Musica:Musica: Musica Urbana
+http://usuarios.club/usuarios/src5/MC_Urbana/iptv/club.m3u8
+#EXTINF:-1,Musica:Musica: Pop Hits
+http://usuarios.club/usuarios/src5/MC_PopHits/iptv/club.m3u8
+#EXTINF:-1,Musica:Musica: Pop Latino
+http://usuarios.club/usuarios/src5/MC_PopLatino/iptv/club.m3u8
+#EXTINF:-1,Noticias:MVS Noticias
+http://usuarios.club/usuarios/src4/MVS/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Naruto 24/7
+http://usuarios.club/usuarios/src3/Naruto/iptv/club.m3u8
+#EXTINF:-1,Cultura:Nat Geo
+http://usuarios.club/usuarios/src1/NatGeo/iptv/club.m3u8
+#EXTINF:-1,Cultura:Nat Geo (Opcion 2)
+http://usuarios.club/usuarios/src2/NATGEO_HD/iptv/club.m3u8
+#EXTINF:-1,Cultura:Nat Geo (720p)
+http://usuarios.club/usuarios/src2/NATGEO_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Infantiles:Nat Geo Kids
+http://usuarios.club/usuarios/src1/NatGeoKids/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Nat Geo Kids (Opcion 2)
+http://usuarios.club/usuarios/src2/NATGEO_KIDS_HD/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Nat Geo Kids (720p)
+http://usuarios.club/usuarios/src2/NATGEO_KIDS_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Infantiles:Nat Geo Kids MX (Opcion 2)
+http://usuarios.club/usuarios/src2/NATGEOKIDS_MX_HD/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Nat Geo Kids MX (720p)
+http://usuarios.club/usuarios/src2/NATGEOKIDS_MX_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Cultura:Nat Geo MX (Opcion 2)
+http://usuarios.club/usuarios/src2/NATGEO_MX_HD/iptv/club.m3u8
+#EXTINF:-1,Cultura:Nat Geo MX (720p)
+http://usuarios.club/usuarios/src2/NATGEO_MX_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Cultura:Nat Geo Wild
+http://usuarios.club/usuarios/src1/NatGeoWild/iptv/club.m3u8
+#EXTINF:-1,España:Neox
+http://usuarios.club/usuarios/src4/Neox/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Nick 2
+http://usuarios.club/usuarios/src5/Nick/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Nick 2 (Opcion 2)
+http://usuarios.club/usuarios/src2/NICK_2_HD/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Nick 2 (720p)
+http://usuarios.club/usuarios/src2/NICK_2_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Infantiles:Nick JR
+http://usuarios.club/usuarios/src1/NickJR/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Nick Toons
+http://usuarios.club/usuarios/src1/NickToons/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Nickelodeon
+http://usuarios.club/usuarios/src1/Nickelodeon/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Nickelodeon (Opcion 2)
+http://usuarios.club/usuarios/src2/NICKELODEON_HD/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Nickelodeon (720p)
+http://usuarios.club/usuarios/src2/NICKELODEON_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Argentina:ORBE 21
+http://usuarios.club/usuarios/src4/ORBE21/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Padre de Familia 24/7
+http://usuarios.club/usuarios/src3/PadreDeFamilia/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Paramount
+http://usuarios.club/usuarios/src5/Paramount/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Paramount (Opcion 2)
+http://usuarios.club/usuarios/src2/PARAMOUNT_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Paramount (720p)
+http://usuarios.club/usuarios/src2/PARAMOUNT_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peru:PERU: América TV
+http://usuarios.club/usuarios/src4/AmericaTV/iptv/club.m3u8
+#EXTINF:-1,Peru:PERU: Antares TV
+http://usuarios.club/usuarios/src4/AntaresTV/iptv/club.m3u8
+#EXTINF:-1,Peru:PERU: BHTV
+http://usuarios.club/usuarios/src4/BHTV/iptv/club.m3u8
+#EXTINF:-1,Peru:PERU: La Luz
+http://usuarios.club/usuarios/src4/LaLuzPeru/iptv/club.m3u8
+#EXTINF:-1,Peru:PERU: Latina
+http://usuarios.club/usuarios/src4/LatinaPeru/iptv/club.m3u8
+#EXTINF:-1,Peru:PERU: Plus TV
+http://usuarios.club/usuarios/src4/PlusTV/iptv/club.m3u8
+#EXTINF:-1,Peru:PERU: RBC
+http://usuarios.club/usuarios/src4/RBC/iptv/club.m3u8
+#EXTINF:-1,Peru:PERU: RPP
+http://usuarios.club/usuarios/src4/RPP/iptv/club.m3u8
+#EXTINF:-1,Peru:PERU: TV Peru
+http://usuarios.club/usuarios/src4/TVPeru/iptv/club.m3u8
+#EXTINF:-1,Peru:PERU: Willax TV
+http://usuarios.club/usuarios/src4/WillaxTV/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Pokemon 24/7
+http://usuarios.club/usuarios/src3/Pokemon/iptv/club.m3u8
+#EXTINF:-1,Deportes:PX TV
+http://usuarios.club/usuarios/src4/PXTV/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Ranma 1/2 24/7
+http://usuarios.club/usuarios/src3/Ranma/iptv/club.m3u8
+#EXTINF:-1,Mexico:RCG TV Coahuila
+http://usuarios.club/usuarios/src4/RCGTVCoahuila/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:RCN
+http://usuarios.club/usuarios/src5/RCN/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:RCN Novelas
+http://usuarios.club/usuarios/src4/RCNNovelas/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:RCN Novelas (Opcion 2)
+http://usuarios.club/usuarios/src2/RCN_TELENOVELAS/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:RCN Novelas (720p)
+http://usuarios.club/usuarios/src2/RCN_TELENOVELAS/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:Real Madrid TV
+http://usuarios.club/usuarios/src4/RealMadridTV/iptv/club.m3u8
+#EXTINF:-1,Musica:Ritmoson Latino
+http://usuarios.club/usuarios/src1/RitmosonLatino/iptv/club.m3u8
+#EXTINF:-1,Noticias:RT HD
+http://usuarios.club/usuarios/src4/RTHD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Scooby Doo 24/7
+http://usuarios.club/usuarios/src3/ScoobyDoo/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Sony
+http://usuarios.club/usuarios/src1/SonyHD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Sony (Opcion 2)
+http://usuarios.club/usuarios/src2/SONY_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Sony (720p)
+http://usuarios.club/usuarios/src2/SONY_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Space HD
+http://usuarios.club/usuarios/src1/SpaceHD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Space HD (Opcion 2)
+http://usuarios.club/usuarios/src2/SPACE_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Space HD (720p)
+http://usuarios.club/usuarios/src2/SPACE_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Brasil:STB Brasil
+http://usuarios.club/usuarios/src4/STBBrasil/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Studio Universal
+http://usuarios.club/usuarios/src1/StudioUniversal/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Studio Universal (Opcion 2)
+http://usuarios.club/usuarios/src2/STUDIO_UNIVERSAL/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Studio Universal (720p)
+http://usuarios.club/usuarios/src2/STUDIO_UNIVERSAL/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:Super Campeones 24/7
+http://usuarios.club/usuarios/src3/SuperCampeones/iptv/club.m3u8
+#EXTINF:-1,Peliculas:SyFy
+http://usuarios.club/usuarios/src1/SyFy/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Taquilla 1
+http://usuarios.club/usuarios/src5/Taquilla1/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Taquilla 2
+http://usuarios.club/usuarios/src5/Taquilla2/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Taquilla 3
+http://usuarios.club/usuarios/src5/Taquilla3/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Taquilla 4
+http://usuarios.club/usuarios/src5/Taquilla4/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Taquilla 5
+http://usuarios.club/usuarios/src5/Taquilla5/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:TBS Very Funny
+http://usuarios.club/usuarios/src1/TBSVeryFunny/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:TBS Very Funny (Opcion 2)
+http://usuarios.club/usuarios/src2/TBS_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:TBS Very Funny (720p)
+http://usuarios.club/usuarios/src2/TBS_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:TCM
+http://usuarios.club/usuarios/src1/TCM/iptv/club.m3u8
+#EXTINF:-1,Peliculas:TCM (Opcion 2)
+http://usuarios.club/usuarios/src2/TCM/iptv/club.m3u8
+#EXTINF:-1,Peliculas:TCM (720p)
+http://usuarios.club/usuarios/src2/TCM/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:TDN
+http://usuarios.club/usuarios/src5/TDN/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:TeleFórmula
+http://usuarios.club/usuarios/src1/TeleFormula/iptv/club.m3u8
+#EXTINF:-1,Musica:Telehit
+http://usuarios.club/usuarios/src1/Telehit/iptv/club.m3u8
+#EXTINF:-1,Colombia:Telemedellin
+http://usuarios.club/usuarios/src4/Telemedellin/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Telemundo
+http://usuarios.club/usuarios/src5/Telemundo/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Telemundo (Opcion 2)
+http://usuarios.club/usuarios/src2/TELEMUNDO/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Telemundo (720p)
+http://usuarios.club/usuarios/src2/TELEMUNDO/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:Telemundo 49
+http://usuarios.club/usuarios/src4/Telemundo2/iptv/club.m3u8
+#EXTINF:-1,Argentina:Telpin Tv
+http://usuarios.club/usuarios/src4/TelpinTv/iptv/club.m3u8
+#EXTINF:-1,Musica:Tigo Music
+http://usuarios.club/usuarios/src4/TigoMusic/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Tiin
+http://usuarios.club/usuarios/src1/Tiin/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:TLC
+http://usuarios.club/usuarios/src1/TLC/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:TLC (Opcion 2)
+http://usuarios.club/usuarios/src2/TLC_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:TLC (720p)
+http://usuarios.club/usuarios/src2/TLC_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:Tlnovelas
+http://usuarios.club/usuarios/src5/Tlnovelas/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Tlnovelas Op. 2
+http://usuarios.club/usuarios/src5/Tlnovelas2/iptv/club.m3u8
+#EXTINF:-1,Venezuela:TLT Venezuela
+http://usuarios.club/usuarios/src4/TLTVenezuela/iptv/club.m3u8
+#EXTINF:-1,Argentina:TN Canal
+http://usuarios.club/usuarios/src4/TNCanal/iptv/club.m3u8
+#EXTINF:-1,Peliculas:TNT
+http://usuarios.club/usuarios/src1/TNT/iptv/club.m3u8
+#EXTINF:-1,Peliculas:TNT (Opcion 2)
+http://usuarios.club/usuarios/src2/TNT_HD/iptv/club.m3u8
+#EXTINF:-1,Peliculas:TNT (720p)
+http://usuarios.club/usuarios/src2/TNT_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Entretenimiento:TNT Series
+http://usuarios.club/usuarios/src1/TNTSeries/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:TNT Series (Opcion 2)
+http://usuarios.club/usuarios/src2/TNT_SERIES_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:TNT Series (720p)
+http://usuarios.club/usuarios/src2/TNT_SERIES_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:TNT Sports
+http://usuarios.club/usuarios/src5/TNTSports/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Tom y Jerry 24/7
+http://usuarios.club/usuarios/src3/TomYJerry/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Tooncast
+http://usuarios.club/usuarios/src1/Tooncast/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Tooncast (Opcion 2)
+http://usuarios.club/usuarios/src2/TOONCAST/iptv/club.m3u8
+#EXTINF:-1,Infantiles:Tooncast (720p)
+http://usuarios.club/usuarios/src2/TOONCAST/iptv/club/hd.m3u8
+#EXTINF:-1,Venezuela:TRT
+http://usuarios.club/usuarios/src4/TRT/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:TruTV
+http://usuarios.club/usuarios/src1/TruTV/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:TruTV (Opcion 2)
+http://usuarios.club/usuarios/src2/TRU_TV_HD
+#EXTINF:-1,Entretenimiento:TruTV (720p)
+http://usuarios.club/usuarios/src2/TRU_TV_HD
+#EXTINF:-1,Musica:Tu Musica HD
+http://usuarios.club/usuarios/src5/TuMusicaHD/iptv/club.m3u8
+#EXTINF:-1,Brasil:TVBrasil
+http://usuarios.club/usuarios/src4/TVBrasil/iptv/club.m3u8
+#EXTINF:-1,España:TVE
+http://usuarios.club/usuarios/src1/TVE/iptv/club.m3u8
+#EXTINF:-1,Mexico:TVMas Veracruz
+http://usuarios.club/usuarios/src4/TVMasVeracruz/iptv/club.m3u8
+#EXTINF:-1,Ecuador:TVN Ecuador
+http://usuarios.club/usuarios/src4/TVNEcuador/iptv/club.m3u8
+#EXTINF:-1,Venezuela:TVO Canal 23
+http://usuarios.club/usuarios/src4/TVOCanal23/iptv/club.m3u8
+#EXTINF:-1,Mexico:TVT (TV Tlaxcala)
+http://usuarios.club/usuarios/src4/TVTlaxcala/iptv/club.m3u8
+#EXTINF:-1,Deportes:Tyc Sports
+http://usuarios.club/usuarios/src5/TycSports/iptv/club.m3u8
+#EXTINF:-1,Deportes:UFC Network
+http://usuarios.club/usuarios/src5/UFCNetwork/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Unicable
+http://usuarios.club/usuarios/src1/Unicable/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Unicable (Opcion 2)
+http://usuarios.club/usuarios/src2/UNICABLE/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Unicable (720p)
+http://usuarios.club/usuarios/src2/UNICABLE/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Universal
+http://usuarios.club/usuarios/src1/Universal/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Universal (Opcion 2)
+http://usuarios.club/usuarios/src2/UNIVERSAL_CHANNEL/iptv/club.m3u8
+#EXTINF:-1,Peliculas:Universal (720p)
+http://usuarios.club/usuarios/src2/UNIVERSAL_CHANNEL/iptv/club/hd.m3u8
+#EXTINF:-1,Peliculas:Universal HD
+http://usuarios.club/usuarios/src1/UniversalHD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Univision
+http://usuarios.club/usuarios/src5/Univision/iptv/club.m3u8
+#EXTINF:-1,Deportes:Univisión Deportes
+http://usuarios.club/usuarios/src5/UnivisionDeportes/iptv/club.m3u8
+#EXTINF:-1,Deportes:Univisión TDN
+http://usuarios.club/usuarios/src5/UnivisionTDN/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Univision Tlnovelas
+http://usuarios.club/usuarios/src5/UnivisionTlnovelas/iptv/club.m3u8
+#EXTINF:-1,USA:USA: Bravo! HD
+http://usuarios.club/usuarios/src5/BravoHD/iptv/club.m3u8
+#EXTINF:-1,USA:USA: CW
+http://usuarios.club/usuarios/src5/CW/iptv/club.m3u8
+#EXTINF:-1,USA:USA: ESPN 1
+http://usuarios.club/usuarios/src5/ESPN1EN/iptv/club.m3u8
+#EXTINF:-1,USA:USA: ESPN 2
+http://usuarios.club/usuarios/src5/ESPN2EN/iptv/club.m3u8
+#EXTINF:-1,USA:USA: Fox Sports 1
+http://usuarios.club/usuarios/src5/FoxSports1EN/iptv/club.m3u8
+#EXTINF:-1,USA:USA: Fox Sports 2
+http://usuarios.club/usuarios/src5/FoxSports2EN/iptv/club.m3u8
+#EXTINF:-1,USA:USA: Hallmark
+http://usuarios.club/usuarios/src5/Hallmark/iptv/club.m3u8
+#EXTINF:-1,USA:USA: HBO
+http://usuarios.club/usuarios/src5/HBOEN/iptv/club.m3u8
+#EXTINF:-1,USA:USA: HBO Comedy
+http://usuarios.club/usuarios/src5/HBOComedy/iptv/club.m3u8
+#EXTINF:-1,USA:USA: NBC HD
+http://usuarios.club/usuarios/src5/NBCHD/iptv/club.m3u8
+#EXTINF:-1,USA:USA: NBC Sports
+http://usuarios.club/usuarios/src5/NBCSports/iptv/club.m3u8
+#EXTINF:-1,USA:USA: NBCSN
+http://usuarios.club/usuarios/src5/NBCSN/iptv/club.m3u8
+#EXTINF:-1,Musica:VH1 (Opcion 2)
+http://usuarios.club/usuarios/src2/VH1/iptv/club.m3u8
+#EXTINF:-1,Musica:VH1 (720p)
+http://usuarios.club/usuarios/src2/VH1/iptv/club/hd.m3u8
+#EXTINF:-1,Musica:VH1 Classic (Opcion 2)
+http://usuarios.club/usuarios/src2/VH1_CLASSIC/iptv/club.m3u8
+#EXTINF:-1,Musica:VH1 Classic (720p)
+http://usuarios.club/usuarios/src2/VH1_CLASSIC/iptv/club/hd.m3u8
+#EXTINF:-1,Musica:VH1 HD
+http://usuarios.club/usuarios/src5/VH1/iptv/club.m3u8
+#EXTINF:-1,Musica:VH1 HD (Opcion 2)
+http://usuarios.club/usuarios/src2/VH1_HD/iptv/club.m3u8
+#EXTINF:-1,Musica:VH1 HD (720p)
+http://usuarios.club/usuarios/src2/VH1_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Musica:Video Rola
+http://usuarios.club/usuarios/src5/VideoRola/iptv/club.m3u8
+#EXTINF:-1,Musica:Videos: 1Music
+http://usuarios.club/usuarios/src4/1Music/iptv/club.m3u8
+#EXTINF:-1,Musica:Videos: 4Music
+http://usuarios.club/usuarios/src4/4Music/iptv/club.m3u8
+#EXTINF:-1,Musica:Videos: Clubbing TV
+http://usuarios.club/usuarios/src4/ClubbingTV/iptv/club.m3u8
+#EXTINF:-1,Musica:Videos: Company Radio TV
+http://usuarios.club/usuarios/src4/CompanyTV/iptv/club.m3u8
+#EXTINF:-1,Musica:Videos: Cool 103.7 TV
+http://usuarios.club/usuarios/src4/Cool103TV/iptv/club.m3u8
+#EXTINF:-1,Musica:Videos: Dream TV
+http://usuarios.club/usuarios/src4/DreamTV/iptv/club.m3u8
+#EXTINF:-1,Musica:Videos: La Radio PR
+http://usuarios.club/usuarios/src4/LaRadioPR/iptv/club.m3u8
+#EXTINF:-1,Musica:Virgin TV
+http://usuarios.club/usuarios/src4/VirginTV/iptv/club.m3u8
+#EXTINF:-1,Chile:VTV2 Chile
+http://usuarios.club/usuarios/src4/VTV2Chile/iptv/club.m3u8
+#EXTINF:-1,Puerto Rico:Wapa PR
+http://usuarios.club/usuarios/src4/WapaPR/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Warner Channel HD
+http://usuarios.club/usuarios/src1/WarnerChannelHD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Warner Channel HD (Opcion 2)
+http://usuarios.club/usuarios/src2/WARNER_HD/iptv/club.m3u8
+#EXTINF:-1,Entretenimiento:Warner Channel HD (720p)
+http://usuarios.club/usuarios/src2/WARNER_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:Win Sports
+http://usuarios.club/usuarios/src5/WinSports/iptv/club.m3u8
+#EXTINF:-1,Deportes:Win Sports (Opcion 2)
+http://usuarios.club/usuarios/src2/WINSPORTS_HD/iptv/club.m3u8
+#EXTINF:-1,Deportes:Win Sports (720p)
+http://usuarios.club/usuarios/src2/WINSPORTS_HD/iptv/club/hd.m3u8
+#EXTINF:-1,Deportes:WWE Network
+http://usuarios.club/usuarios/src5/WWENetwork/iptv/club.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:HOLA TV HD
+http://tvpremiumhd.club/lista-gratuita/fox/s37.ts
+#EXTINF:-1,MUSICA:HTV
+http://tvpremiumhd.club/lista-gratuita/fox/s20.ts
+#EXTINF:-1,ENTRETENIMIENTO:INTI HD
+http://tvpremiumhd.club/lista-gratuita/fox/s27.ts
+#EXTINF:-1,ENTRETENIMIENTO:LIFETIME
+http://tvpremiumhd.club/lista-gratuita/fox/s62.ts
+#EXTINF:-1,ENTRETENIMIENTO:MASCHIC HD
+http://tvpremiumhd.club/lista-gratuita/fox/s188.ts
+#EXTINF:-1,ENTRETENIMIENTO:MAX PRIME HD
+http://tvpremiumhd.club/lista-gratuita/fox/s103.ts
+#EXTINF:-1,ENTRETENIMIENTO:MAX UP HD
+http://tvpremiumhd.club/lista-gratuita/fox/s85.ts
+#EXTINF:-1,ENTRETENIMIENTO:MTV HD
+http://tvpremiumhd.club/lista-gratuita/fox/s97.ts
+#EXTINF:-1,MUSICA:MTV HITS
+http://tvpremiumhd.club/lista-gratuita/fox/s101.ts
+#EXTINF:-1,MUSICA:MTV LIVE HD
+http://tvpremiumhd.club/lista-gratuita/fox/s22.ts
+#EXTINF:-1,INFANTIL:NICK JR HD
+http://tvpremiumhd.club/lista-gratuita/fox/s84.ts
+#EXTINF:-1,ENTRETENIMIENTO:FXM HD
+http://tvpremiumhd.club/lista-gratuita/fox/s210.ts
+#EXTINF:-1,ENTRETENIMIENTO:FX HD
+http://tvpremiumhd.club/lista-gratuita/fox/s51.ts
+#EXTINF:-1,TV USA:FOX NEWS
+http://tvpremiumhd.club/lista-gratuita/fox/s29.ts
+#EXTINF:-1,CINE PREMIUM:FOX CINEMA HD
+http://tvpremiumhd.club/lista-gratuita/fox/s64.ts
+#EXTINF:-1,CINE PREMIUM:FOX CLASSICS HD
+http://tvpremiumhd.club/lista-gratuita/fox/s63.ts
+#EXTINF:-1,CINE PREMIUM:FOX COMEDY HD
+http://tvpremiumhd.club/lista-gratuita/fox/s33.ts
+#EXTINF:-1,TV USA:FRANCE24
+http://tvpremiumhd.club/lista-gratuita/fox/s35.ts
+#EXTINF:-1,TV COLOMBIA:RCN TELENOVELAS
+http://tvpremiumhd.club/lista-gratuita/fox/s113.ts
+#EXTINF:-1,INFANTIL:TOONCAST
+http://tvpremiumhd.club/lista-gratuita/fox/s92.ts
+#EXTINF:-1,TV VENEZUELA:VEPLUS TV
+http://tvpremiumhd.club/lista-gratuita/fox/s23.ts
+#EXTINF:-1,MUSICA:VH1
+http://tvpremiumhd.club/lista-gratuita/fox/s55.ts
+#EXTINF:-1,MUSICA:VH1 CLASSIC
+http://tvpremiumhd.club/lista-gratuita/fox/s26.ts
+#EXTINF:-1,CINE PREMIUM:WARNER HD
+http://tvpremiumhd.club/lista-gratuita/fox/s61.ts
+#EXTINF:-1,TV MEXICO:TLNOVELAS
+http://tvpremiumhd.club/lista-gratuita/fox/s83.ts
+#EXTINF:-1,CINE PREMIUM:MULTIPREMIER
+http://tvpremiumhd.club/lista-gratuita/fox/s185.ts
+#EXTINF:-1,INFANTIL:NATGEO KIDS HD
+http://tvpremiumhd.club/lista-gratuita/fox/s43.ts
+#EXTINF:-1,ENTRETENIMIENTO:NATGEO WILD HD
+http://tvpremiumhd.club/lista-gratuita/fox/s60.ts
+#EXTINF:-1,INFANTIL:NICK HD
+http://tvpremiumhd.club/lista-gratuita/fox/s48.ts
+#EXTINF:-1,INFANTIL:Nick 2 HD
+http://tvpremiumhd.club/lista-gratuita/fox/s212.ts
+#EXTINF:-1,CINE PREMIUM:PARAMOUNT HD
+http://tvpremiumhd.club/lista-gratuita/fox/s109.ts
+#EXTINF:-1,ENTRETENIMIENTO:PASIONES HD
+http://tvpremiumhd.club/lista-gratuita/fox/s99.ts
+#EXTINF:-1,ENTRETENIMIENTO:FXM HD
+http://tvpremiumhd.club/lista-gratuita/fox/s98.ts
+#EXTINF:-1,ENTRETENIMIENTO:TNT SERIES HD
+http://tvpremiumhd.club/lista-gratuita/fox/s53.ts
+#EXTINF:-1,ENTRETENIMIENTO:TV5
+http://tvpremiumhd.club/lista-gratuita/fox/s66.ts
+#EXTINF:-1,TV RELIGION:TVE 24HRS
+http://tvpremiumhd.club/lista-gratuita/fox/s44.ts
+#EXTINF:-1,CINE PREMIUM:UNIVERSAL CHANNEL HD
+http://tvpremiumhd.club/lista-gratuita/fox/s91.ts
+#EXTINF:-1,DEPORTES:CLARO SPORTS LATAM
+http://tvpremiumhd.club/lista-gratuita/fox/s16.ts
+#EXTINF:-1,ENTRETENIMIENTO:GOLF LATIN AMERICA HD
+http://tvpremiumhd.club/lista-gratuita/fox/s209.ts
+#EXTINF:-1,ENTRETENIMIENTO:Investigation Discovery
+http://tvpremiumhd.club/lista-gratuita/fox/s215.ts
+#EXTINF:-1,ENTRETENIMIENTO:Cablenoticias HD
+http://tvpremiumhd.club/lista-gratuita/fox/s214.ts
+#EXTINF:-1,ENTRETENIMIENTO:Canal Tro
+http://tvpremiumhd.club/lista-gratuita/fox/s230.ts
+#EXTINF:-1,TV COLOMBIA:Caracol
+http://tvpremiumhd.club/lista-gratuita/fox/s223.ts
+#EXTINF:-1,TV COLOMBIA:Caracol HD
+http://tvpremiumhd.club/lista-gratuita/fox/s201.ts
+#EXTINF:-1,CINE PREMIUM:Cinema Plus
+http://tvpremiumhd.club/lista-gratuita/fox/s241.ts
+#EXTINF:-1,TV COLOMBIA:City Noticias
+http://tvpremiumhd.club/lista-gratuita/fox/s226.ts
+#EXTINF:-1,ENTRETENIMIENTO:CLARO HD
+http://tvpremiumhd.club/lista-gratuita/fox/s195.ts
+#EXTINF:-1,ENTRETENIMIENTO:dataiFX
+http://tvpremiumhd.club/lista-gratuita/fox/s232.ts
+#EXTINF:-1,CINE PREMIUM:De Pelicula
+http://tvpremiumhd.club/lista-gratuita/fox/s238.ts
+#EXTINF:-1,TV RELIGION:EWTN
+http://tvpremiumhd.club/lista-gratuita/fox/s72.ts
+#EXTINF:-1,ENTRETENIMIENTO:Glitz
+http://tvpremiumhd.club/lista-gratuita/fox/s235.ts
+#EXTINF:-1,MUSICA:Radiola HD
+http://tvpremiumhd.club/lista-gratuita/fox/s218.ts
+#EXTINF:-1,ENTRETENIMIENTO:MP
+http://tvpremiumhd.club/lista-gratuita/fox/s239.ts
+#EXTINF:-1,ENTRETENIMIENTO:Rai Italia
+http://tvpremiumhd.club/lista-gratuita/fox/s237.ts
+#EXTINF:-1,MUSICA:RED HD
+http://tvpremiumhd.club/lista-gratuita/fox/s199.ts
+#EXTINF:-1,TV COLOMBIA:Teleantioquia
+http://tvpremiumhd.club/lista-gratuita/fox/s227.ts
+#EXTINF:-1,TV COLOMBIA:Telecafe
+http://tvpremiumhd.club/lista-gratuita/fox/s228.ts
+#EXTINF:-1,TV USA LATINO:Telemundo Internacional
+http://tvpremiumhd.club/lista-gratuita/fox/s233.ts
+#EXTINF:-1,ENTRETENIMIENTO:TV Agro HD
+http://tvpremiumhd.club/lista-gratuita/fox/s203.ts
+#EXTINF:-1,ENTRETENIMIENTO:CLARO MUSICA
+http://tvpremiumhd.club/lista-gratuita/fox/s194.ts
+#EXTINF:-1,TV USA:Arirang
+http://tvpremiumhd.club/lista-gratuita/fox/s222.ts
+#EXTINF:-1,ENTRETENIMIENTO:DISCOVERY TLC
+http://tvpremiumhd.club/lista-gratuita/fox/s234.ts
+#EXTINF:-1,TV USA:ISat
+http://tvpremiumhd.club/lista-gratuita/fox/s240.ts
+#EXTINF:-1,MUSICA:K MUSICA
+http://tvpremiumhd.club/lista-gratuita/fox/s193.ts
+#EXTINF:-1,ENTRETENIMIENTO:Canal Uno
+http://tvpremiumhd.club/lista-gratuita/fox/s225.ts
+#EXTINF:-1,DEPORTES:Claro Sport
+http://tvpremiumhd.club/lista-gratuita/fox/s204.ts
+#EXTINF:-1,DEPORTES:ESPN HD
+http://tvpremiumhd.club/lista-gratuita/fox/s217.ts
+#EXTINF:-1,DEPORTES:ESPN 3 HD
+http://tvpremiumhd.club/lista-gratuita/fox/s216.ts
+#EXTINF:-1,DEPORTES:Fox Sports HD
+http://tvpremiumhd.club/lista-gratuita/fox/s205.ts
+#EXTINF:-1,DEPORTES:Fox Sport 2 HD
+http://tvpremiumhd.club/lista-gratuita/fox/s207.ts
+#EXTINF:-1,DEPORTES:Fox Sports 3 HD
+http://tvpremiumhd.club/lista-gratuita/fox/s206.ts
+#EXTINF:-1,DEPORTES:WIN SPORTS HD
+http://tvpremiumhd.club/lista-gratuita/fox/s200.ts
+#EXTINF:-1,TV COLOMBIA:ANTV
+http://tvpremiumhd.club/lista-gratuita/fox/s229.ts
+#EXTINF:-1,TV RELIGION:Esne
+http://tvpremiumhd.club/lista-gratuita/fox/s224.ts
+#EXTINF:-1,TV COLOMBIA:TELEPACIFICO
+http://tvpremiumhd.club/lista-gratuita/fox/s196.ts
+#EXTINF:-1,MUSICA:Vibee TV HD
+http://tvpremiumhd.club/lista-gratuita/fox/vibeetv.m3u8
+#EXTINF:-1,TV ARGENTINA:TLX HD
+http://tvpremiumhd.club/lista-gratuita/fox/tlx.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:Travel HD
+http://tvpremiumhd.club/lista-gratuita/fox/travelhd.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:CNN HD
+http://tvpremiumhd.club/lista-gratuita/fox/cnn.m3u8
+#EXTINF:-1,TV ARGENTINA:Canal 4 HD
+http://tvpremiumhd.club/lista-gratuita/fox/europac4.m3u8
+#EXTINF:-1,TV ARGENTINA:Telepin TV HD
+http://tvpremiumhd.club/lista-gratuita/fox/telepinx.m3u8
+#EXTINF:-1,TV ARGENTINA:Canal 26 HD
+http://tvpremiumhd.club/lista-gratuita/fox/canal26.m3u8
+#EXTINF:-1,TV ARGENTINA:Aire Santafe HD
+http://tvpremiumhd.club/lista-gratuita/fox/airesantafe-ar.m3u8
+#EXTINF:-1,DEPORTES:Real Madrid
+http://tvpremiumhd.club/lista-gratuita/fox/realmadrid.ts
+#EXTINF:-1,DEPORTES:CDO HD
+http://tvpremiumhd.club/lista-gratuita/fox/cdo.ts
+#EXTINF:-1,DEPORTES:Sevilla TV
+http://tvpremiumhd.club/lista-gratuita/fox/sevilla.ts
+#EXTINF:-1,DEPORTES:Todo Deportes
+http://tvpremiumhd.club/lista-gratuita/fox/tododep.ts
+#EXTINF:-1,DEPORTES:Todo Deportes HD
+http://tvpremiumhd.club/lista-gratuita/fox/tododeportesx.m3u8
+#EXTINF:-1,DEPORTES:MBL
+http://tvpremiumhd.club/lista-gratuita/fox/mbl.m3u8
+#EXTINF:-1,TV MEXICO:TV MEXICO
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1,TV MEXICO:LAS ESTRELLAS SOLO MEXICO
+http://tvpremiumhd.club/lista-gratuita/fox/lasestrellas.m3u8
+#EXTINF:-1,TV MEXICO:Azteca Uno HD
+http://tvpremiumhd.club/lista-gratuita/fox/s167.ts
+#EXTINF:-1,TV MEXICO:Azteca 7
+http://tvpremiumhd.club/lista-gratuita/fox/az7.m3u8
+#EXTINF:-1,TV MEXICO:ADN 40
+http://tvpremiumhd.club/lista-gratuita/fox/adn40.m3u8
+#EXTINF:-1,TV MEXICO:Canal Once HD
+http://tvpremiumhd.club/lista-gratuita/fox/canalonce.m3u8
+#EXTINF:-1,TV MEXICO:FORO TV
+http://tvpremiumhd.club/lista-gratuita/fox/s847.ts
+#EXTINF:-1,TV MEXICO:Multimedios
+http://tvpremiumhd.club/lista-gratuita/fox/multimedios.m3u8
+#EXTINF:-1,TV MEXICO:Ocho TV HD
+http://tvpremiumhd.club/lista-gratuita/fox/ochotv.m3u8
+#EXTINF:-1,TV MEXICO:Az +
+http://tvpremiumhd.club/lista-gratuita/fox/s763.ts
+#EXTINF:-1,TV MEXICO:Canal Mexiquence
+http://tvpremiumhd.club/lista-gratuita/fox/cmexiquence.ts
+#EXTINF:-1,TV MEXICO:Efecto TV HD
+http://tvpremiumhd.club/lista-gratuita/fox/efectotv.ts
+#EXTINF:-1,TV MEXICO:TV MAS
+http://tvpremiumhd.club/lista-gratuita/fox/teleuv.ts
+#EXTINF:-1,TV MEXICO:Canal Judicial
+http://tvpremiumhd.club/lista-gratuita/fox/cjudicial.ts
+#EXTINF:-1,TV MEXICO:Canal 10 HD
+http://tvpremiumhd.club/lista-gratuita/fox/canal10.ts
+#EXTINF:-1,TV MEXICO:Canal del Congreso
+http://tvpremiumhd.club/lista-gratuita/fox/ccongreso.ts
+#EXTINF:-1,TV MEXICO:Aristegui Noticias
+http://tvpremiumhd.club/lista-gratuita/fox/aristegui.ts
+#EXTINF:-1,TV MEXICO:Milenio TV
+http://tvpremiumhd.club/lista-gratuita/fox/mileniotv.ts
+#EXTINF:-1,TV MEXICO:Multimedios MTY HD
+http://tvpremiumhd.club/lista-gratuita/fox/multimediosmtyx.m3u8
+#EXTINF:-1,MUSICA:TV MÚSICA
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1,MUSICA:MC Music Choice
+http://tvpremiumhd.club/lista-gratuita/fox/mcmusicchoice.m3u8
+#EXTINF:-1,MUSICA:Radio Virgin
+http://tvpremiumhd.club/lista-gratuita/fox/radiovirgen.m3u8
+#EXTINF:-1,MUSICA:Capital TV
+http://tvpremiumhd.club/lista-gratuita/fox/capitaltv.m3u8
+#EXTINF:-1,MUSICA:Mi Música HD
+http://tvpremiumhd.club/lista-gratuita/fox/mimusica.m3u8
+#EXTINF:-1,MUSICA:TOP Latino
+http://tvpremiumhd.club/lista-gratuita/fox/toplatino.m3u8
+#EXTINF:-1,MUSICA:Teleritmo
+http://tvpremiumhd.club/lista-gratuita/fox/teleritmo.m3u8
+#EXTINF:-1,MUSICA:Melody Channel
+http://tvpremiumhd.club/lista-gratuita/fox/melodychannel.m3u8
+#EXTINF:-1,MUSICA:Retro TV
+http://tvpremiumhd.club/lista-gratuita/fox/retrotv.m3u8
+#EXTINF:-1,TV MEXICO:MVS Noticias
+http://tvpremiumhd.club/lista-gratuita/fox/s740.ts
+#EXTINF:-1,ENTRETENIMIENTO:ENTRETENIMIENTO
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1,ENTRETENIMIENTO:Miami TV HD
+http://tvpremiumhd.club/lista-gratuita/fox/miamitvusa.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:Miami TV España
+http://tvpremiumhd.club/lista-gratuita/fox/miamitves.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:RT Latino
+http://tvpremiumhd.club/lista-gratuita/fox/rt.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:WOW TV
+http://tvpremiumhd.club/lista-gratuita/fox/s729.ts
+#EXTINF:-1,ENTRETENIMIENTO:Animaux
+http://tvpremiumhd.club/lista-gratuita/fox/animaux.m3u8
+#EXTINF:-1,TV MEXICO:Aprende TV
+http://tvpremiumhd.club/lista-gratuita/fox/aprendetv.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:DW Entretenimiento
+http://tvpremiumhd.club/lista-gratuita/fox/dwentretenimiento.m3u8
+#EXTINF:-1,TV ARGENTINA:Garage TV
+http://tvpremiumhd.club/lista-gratuita/fox/garagetv.m3u8
+#EXTINF:-1,TV USA LATINO:Telemundo
+http://tvpremiumhd.club/lista-gratuita/fox/telemundox.m3u8
+#EXTINF:-1,TV ECUADOR:Educa TC
+http://tvpremiumhd.club/lista-gratuita/fox/tc.m3u8
+#EXTINF:-1,TV CHILE:Chilevision
+http://tvpremiumhd.club/lista-gratuita/fox/chilevision.m3u8
+#EXTINF:-1,TV CHILE:T13 CHILE
+http://tvpremiumhd.club/lista-gratuita/fox/tvchile.m3u8
+#EXTINF:-1,TV CHILE:CANAL CARNAVAL
+http://tvpremiumhd.club/lista-gratuita/fox/carnaval38.m3u8
+#EXTINF:-1,TV USA LATINO:Univision HD
+http://tvpremiumhd.club/lista-gratuita/fox/univision28.ts
+#EXTINF:-1,TV PERU:Amag TV
+http://tvpremiumhd.club/lista-gratuita/fox/amagtv.m3u8
+#EXTINF:-1,INFANTIL:INFANTIL
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1,INFANTIL:Locomotion
+http://tvpremiumhd.club/lista-gratuita/fox/locomotion.m3u8
+#EXTINF:-1,INFANTIL:Caricatura TV
+http://tvpremiumhd.club/lista-gratuita/fox/animax.m3u8
+#EXTINF:-1,INFANTIL:Neox HD
+http://tvpremiumhd.club/lista-gratuita/fox/s716.ts
+#EXTINF:-1,TV ESPAÑA:TV ESPAÑA
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1,TV ESPAÑA:Antena 3  HD
+http://tvpremiumhd.club/lista-gratuita/fox/s726.ts
+#EXTINF:-1,TV ESPAÑA:Atreseries HD
+http://tvpremiumhd.club/lista-gratuita/fox/atreseries.m3u8
+#EXTINF:-1,TV ESPAÑA:Nova HD
+http://tvpremiumhd.club/lista-gratuita/fox/s714.ts
+#EXTINF:-1,TV ESPAÑA:Mega HD
+http://tvpremiumhd.club/lista-gratuita/fox/s718.ts
+#EXTINF:-1,TV ESPAÑA:8 TV Espana
+http://tvpremiumhd.club/lista-gratuita/fox/8tvespana.m3u8
+#EXTINF:-1,TV ESPAÑA:La Sexta HD
+http://tvpremiumhd.club/lista-gratuita/fox/s721.ts
+#EXTINF:-1,ENTRETENIMIENTO:DW Internacional
+http://tvpremiumhd.club/lista-gratuita/fox/dwinternacional.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:CGTN En Espanol  HD
+http://tvpremiumhd.club/lista-gratuita/fox/cgtnespanol.m3u8
+#EXTINF:-1,TV RELIGION:Cristovision
+http://tvpremiumhd.club/lista-gratuita/fox/s220.ts
+#EXTINF:-1,TV RELIGION:La voz de Maria
+http://tvpremiumhd.club/lista-gratuita/fox/lavozdemaria.m3u8
+#EXTINF:-1,TV RELIGION:Enlace
+http://tvpremiumhd.club/lista-gratuita/fox/s221.ts
+#EXTINF:-1,TV PANAMA:NexTV
+http://tvpremiumhd.club/lista-gratuita/fox/nextv.m3u8
+#EXTINF:-1,TV USA:Headline News
+http://tvpremiumhd.club/lista-gratuita/fox/s236.ts
+#EXTINF:-1,TV USA:BBC World News
+http://tvpremiumhd.club/lista-gratuita/fox/s231.ts
+#EXTINF:-1,TV USA:Weather Channel
+http://tvpremiumhd.club/lista-gratuita/fox/weatherchannel.m3u8
+#EXTINF:-1,TV USA:CBS News HD
+http://tvpremiumhd.club/lista-gratuita/fox/cbsnews.m3u8
+#EXTINF:-1,TV MEXICO:TV UNAM
+http://tvpremiumhd.club/lista-gratuita/fox/s668.ts
+#EXTINF:-1,TV MEXICO:TV UNAM 2
+http://tvpremiumhd.club/lista-gratuita/fox/s669.ts
+#EXTINF:-1,INFANTIL:NIÑOS KIDS
+http://tvpremiumhd.club/lista-gratuita/fox/s697.ts
+#EXTINF:-1,TV ESPAÑA:TV CANAL VASCO
+http://tvpremiumhd.club/lista-gratuita/fox/s693.ts
+#EXTINF:-1,TV VENEZUELA:TELESUR HD
+http://tvpremiumhd.club/lista-gratuita/fox/s737.ts
+#EXTINF:-1,TV USA LATINO:TELEMUNDO HD
+http://tvpremiumhd.club/lista-gratuita/fox/s680.ts
+#EXTINF:-1,TV USA LATINO:TELEMUNDO 51
+http://tvpremiumhd.club/lista-gratuita/fox/s757.ts
+#EXTINF:-1,TV MEXICO:TELEMAR
+http://tvpremiumhd.club/lista-gratuita/fox/s667.ts
+#EXTINF:-1,TV ESPAÑA:TELECINCO HD
+http://tvpremiumhd.club/lista-gratuita/fox/s735.ts
+#EXTINF:-1,TV ESPAÑA:RTV CE
+http://tvpremiumhd.club/lista-gratuita/fox/s720.ts
+#EXTINF:-1,TV PANAMA:RPC
+http://tvpremiumhd.club/lista-gratuita/fox/s727.ts
+#EXTINF:-1,TV MEXICO:RCG 1 MEXICO
+http://tvpremiumhd.club/lista-gratuita/fox/s670.ts
+#EXTINF:-1,MUSICA:RCG RADIO Y TV
+http://tvpremiumhd.club/lista-gratuita/fox/s728.ts
+#EXTINF:-1,TV ESPAÑA:FDF
+http://tvpremiumhd.club/lista-gratuita/fox/s709.ts
+#EXTINF:-1,DEPORTES:MUNDO AUTO
+http://tvpremiumhd.club/lista-gratuita/fox/s674.ts
+#EXTINF:-1,TV ESPAÑA:MOVISTAR SERIES EXTRA
+http://tvpremiumhd.club/lista-gratuita/fox/s699.ts
+#EXTINF:-1,TV ESPAÑA:MOVISTAR FUTBOL
+http://tvpremiumhd.club/lista-gratuita/fox/s744.ts
+#EXTINF:-1,TV ESPAÑA:MOVISTAR DCINE
+http://tvpremiumhd.club/lista-gratuita/fox/s702.ts
+#EXTINF:-1,TV ESPAÑA:MOVISTAR COMEDIA
+http://tvpremiumhd.club/lista-gratuita/fox/s701.ts
+#EXTINF:-1,TV ESPAÑA:MOVISTAR ACCION
+http://tvpremiumhd.club/lista-gratuita/fox/s704.ts
+#EXTINF:-1,TV ESPAÑA:MOTO GP
+http://tvpremiumhd.club/lista-gratuita/fox/s713.ts
+#EXTINF:-1,TV ESPAÑA:LIFE TV
+http://tvpremiumhd.club/lista-gratuita/fox/s712.ts
+#EXTINF:-1,TV ESPAÑA:LEVANTANTE TV
+http://tvpremiumhd.club/lista-gratuita/fox/s691.ts
+#EXTINF:-1,TV ESPAÑA:LANCELOT TV
+http://tvpremiumhd.club/lista-gratuita/fox/s698.ts
+#EXTINF:-1,TV RELIGION:BETHEL
+http://tvpremiumhd.club/lista-gratuita/fox/s688.ts
+#EXTINF:-1,TV ESPAÑA:LA SEXTA HD
+http://tvpremiumhd.club/lista-gratuita/fox/s736.ts
+#EXTINF:-1,DEPORTES:LALIGA TV HD
+http://tvpremiumhd.club/lista-gratuita/fox/s743.ts
+#EXTINF:-1,TV RELIGION:IMPACTOVISION
+http://tvpremiumhd.club/lista-gratuita/fox/s748.ts
+#EXTINF:-1,TV ESPAÑA:HUELVA TV
+http://tvpremiumhd.club/lista-gratuita/fox/s692.ts
+#EXTINF:-1,MUSICA:HEART TV
+http://tvpremiumhd.club/lista-gratuita/fox/s754.ts
+#EXTINF:-1,ENTRETENIMIENTO:FOX LIFE ESPAÑA
+http://tvpremiumhd.club/lista-gratuita/fox/s689.ts
+#EXTINF:-1,CINE PREMIUM:FOX
+http://tvpremiumhd.club/lista-gratuita/fox/s706.ts
+#EXTINF:-1,DEPORTES:MOVISAR FORMMULA 1
+http://tvpremiumhd.club/lista-gratuita/fox/s752.ts
+#EXTINF:-1,TV CHILE:FMHOT HD
+http://tvpremiumhd.club/lista-gratuita/fox/s731.ts
+#EXTINF:-1,TV COSTA RICA:EXTREMA HD TV
+http://tvpremiumhd.club/lista-gratuita/fox/s730.ts
+#EXTINF:-1,TV ESPAÑA:DIVINITY
+http://tvpremiumhd.club/lista-gratuita/fox/s711.ts
+#EXTINF:-1,TV ESPAÑA:CUATRO HD
+http://tvpremiumhd.club/lista-gratuita/fox/s734.ts
+#EXTINF:-1,TV ESPAÑA:COSMO HD
+http://tvpremiumhd.club/lista-gratuita/fox/s684.ts
+#EXTINF:-1,ENTRETENIMIENTO:COMEDY CENTRAL HD
+http://tvpremiumhd.club/lista-gratuita/fox/s685.ts
+#EXTINF:-1,TV COLOMBIA:RED COLOMBIA
+http://tvpremiumhd.club/lista-gratuita/fox/s760.ts
+#EXTINF:-1,TV COLOMBIA:RCN HD
+http://tvpremiumhd.club/lista-gratuita/fox/s677.ts
+#EXTINF:-1,TV CHILE:CHV 3 HD
+http://tvpremiumhd.club/lista-gratuita/fox/s679.ts
+#EXTINF:-1,TV MEXICO:C7 JALISCO
+http://tvpremiumhd.club/lista-gratuita/fox/s672.ts
+#EXTINF:-1,DEPORTES:BEIN SPORTS HD
+http://tvpremiumhd.club/lista-gratuita/fox/s682.ts
+#EXTINF:-1,DEPORTES:BEIN SPORTS OP2
+http://tvpremiumhd.club/lista-gratuita/fox/s750.ts
+#EXTINF:-1,DEPORTES:BEIN SPORTS OP3
+http://tvpremiumhd.club/lista-gratuita/fox/s749.ts
+#EXTINF:-1,CINE PREMIUM:HOLLYWOOD HD
+http://tvpremiumhd.club/lista-gratuita/fox/s686.ts
+#EXTINF:-1,TV ESPAÑA:AXN
+http://tvpremiumhd.club/lista-gratuita/fox/s751.ts
+#EXTINF:-1,TV ESPAÑA:AXN WIHITE
+http://tvpremiumhd.club/lista-gratuita/fox/s705.ts
+#EXTINF:-1,TV ESPAÑA:ARAGONTV
+http://tvpremiumhd.club/lista-gratuita/fox/s696.ts
+#EXTINF:-1,TV RELIGION:ANDALUCIA TV
+http://tvpremiumhd.club/lista-gratuita/fox/s695.ts
+#EXTINF:-1,TV ESPAÑA:AMC ESPAÑA
+http://tvpremiumhd.club/lista-gratuita/fox/s753.ts
+#EXTINF:-1,TV ESPAÑA:8TV ESPAÑA
+http://tvpremiumhd.club/lista-gratuita/fox/s722.ts
+#EXTINF:-1,TV COLOMBIA:CANAL CAPITAL
+http://tvpremiumhd.club/lista-gratuita/fox/s676.ts
+#EXTINF:-1,ENTRETENIMIENTO:JAZMIN TV HD
+http://tvpremiumhd.club/lista-gratuita/fox/s769.ts
+#EXTINF:-1,DEPORTES:UNIVISION DEPORTES TDN HD
+http://tvpremiumhd.club/lista-gratuita/fox/univisiond28.ts
+#EXTINF:-1,TV RELIGION:SON POPULAR
+http://tvpremiumhd.club/lista-gratuita/fox/s781.ts
+#EXTINF:-1,TV USA:REDBULL
+http://tvpremiumhd.club/lista-gratuita/fox/s775.ts
+#EXTINF:-1,MUSICA:Music Choice Pop Hits | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s791.ts
+#EXTINF:-1,MUSICA:MUSICA COOL
+http://tvpremiumhd.club/lista-gratuita/fox/s780.ts
+#EXTINF:-1,MUSICA:Music Choice | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s800.ts
+#EXTINF:-1,MUSICA:Music Choice Y2K | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s799.ts
+#EXTINF:-1,MUSICA:Music Choice Tropicales | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s804.ts
+#EXTINF:-1,MUSICA:Music Choice Toddler Tunes | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s807.ts
+#EXTINF:-1,MUSICA:Music Choice Today | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s796.ts
+#EXTINF:-1,MUSICA:Music Choice Throwback Jamz | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s798.ts
+#EXTINF:-1,MUSICA:Music Choice Teen Beats | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s805.ts
+#EXTINF:-1,MUSICA:Music Choice Rock | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s795.ts
+#EXTINF:-1,MUSICA:Music Choice Rap | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s793.ts
+#EXTINF:-1,MUSICA:Music Choice Rap 2K | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s794.ts
+#EXTINF:-1,MUSICA:Music Choice R&B Soul | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s792.ts
+#EXTINF:-1,MUSICA:Music Choice Pop Latino | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s803.ts
+#EXTINF:-1,MUSICA:Music Choice Pop & Country | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s790.ts
+#EXTINF:-1,MUSICA:Music Choice Musica Urbana | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s802.ts
+#EXTINF:-1,MUSICA:Music Choice Mexicana | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s801.ts
+#EXTINF:-1,MUSICA:Music Choice Metal | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s789.ts
+#EXTINF:-1,MUSICA:Music Choice Kidz Only | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s806.ts
+#EXTINF:-1,MUSICA:Music Choice Indie | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s788.ts
+#EXTINF:-1,MUSICA:Music Choice Hit | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s787.ts
+#EXTINF:-1,MUSICA:Music Choice Hip-Hop And R&B | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s786.ts
+#EXTINF:-1,MUSICA:Music Choice Dance | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s785.ts
+#EXTINF:-1,MUSICA:Music Choice Brits   Hits | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s784.ts
+#EXTINF:-1,MUSICA:Music Choice Alternative | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s783.ts
+#EXTINF:-1,MUSICA:Music Choice 90 | HD
+http://tvpremiumhd.club/lista-gratuita/fox/s797.ts
+#EXTINF:-1,MUSICA:MTV HITS
+http://tvpremiumhd.club/lista-gratuita/fox/s778.ts
+#EXTINF:-1,MUSICA:DREAM TV
+http://tvpremiumhd.club/lista-gratuita/fox/s779.ts
+#EXTINF:-1,DEPORTES:DEPORTV
+http://tvpremiumhd.club/lista-gratuita/fox/s776.ts
+#EXTINF:-1,DEPORTES:CDO PREMIUM
+http://tvpremiumhd.club/lista-gratuita/fox/s777.ts
+#EXTINF:-1,TV MEXICO:CANAL 22 SOLO MEXICO
+http://tvpremiumhd.club/lista-gratuita/fox/canal22mx.m3u8
+#EXTINF:-1,TV ARGENTINA:CANAL XFN
+http://tvpremiumhd.club/lista-gratuita/fox/s838.ts
+#EXTINF:-1,TV ARGENTINA:URBAN 106.1 FM PEHUAJO
+http://tvpremiumhd.club/lista-gratuita/fox/s873.ts
+#EXTINF:-1,TV VARIOS:UNICANAL TV URUGUAY
+http://tvpremiumhd.club/lista-gratuita/fox/s842.ts
+#EXTINF:-1,TV COSTA RICA:TVS TU CANAL INTERACTIVO
+http://tvpremiumhd.club/lista-gratuita/fox/s813.ts
+#EXTINF:-1,TV VARIOS:TVO EL SALVADOR
+http://tvpremiumhd.club/lista-gratuita/fox/s932.ts
+#EXTINF:-1,TV COSTA RICA:TV SUR 14
+http://tvpremiumhd.club/lista-gratuita/fox/s904.ts
+#EXTINF:-1,TV CHILE:TV SENADO
+http://tvpremiumhd.club/lista-gratuita/fox/s880.ts
+#EXTINF:-1,TV PERU:TV PERU
+http://tvpremiumhd.club/lista-gratuita/fox/s893.ts
+#EXTINF:-1,TV PERU:TV NOTICIAS 7.3
+http://tvpremiumhd.club/lista-gratuita/fox/s892.ts
+#EXTINF:-1,TV VARIOS:TSI HONDURAS
+http://tvpremiumhd.club/lista-gratuita/fox/s928.ts
+#EXTINF:-1,TV RELIGION:TRECE
+http://tvpremiumhd.club/lista-gratuita/fox/s903.ts
+#EXTINF:-1,MUSICA:TRA DIGITAL
+http://tvpremiumhd.club/lista-gratuita/fox/s917.ts
+#EXTINF:-1,TV VENEZUELA:TLT
+http://tvpremiumhd.club/lista-gratuita/fox/s931.ts
+#EXTINF:-1,TV VARIOS:TEN CANAL 10 HONDURAS
+http://tvpremiumhd.club/lista-gratuita/fox/s927.ts
+#EXTINF:-1,TV CHILE:TELETRAK
+http://tvpremiumhd.club/lista-gratuita/fox/s827.ts
+#EXTINF:-1,TV COSTA RICA:TELESUR
+http://tvpremiumhd.club/lista-gratuita/fox/s901.ts
+#EXTINF:-1,TV ARGENTINA:TELERED ARGENTINA
+http://tvpremiumhd.club/lista-gratuita/fox/s844.ts
+#EXTINF:-1,TV COSTA RICA:TELERED
+http://tvpremiumhd.club/lista-gratuita/fox/s900.ts
+#EXTINF:-1,TV REP DOMINICANA:TELENORD CANAL 8
+http://tvpremiumhd.club/lista-gratuita/fox/s914.ts
+#EXTINF:-1,TV REP DOMINICANA:TELENORD CANAL 12
+http://tvpremiumhd.club/lista-gratuita/fox/s916.ts
+#EXTINF:-1,TV REP DOMINICANA:TELENORD CANAL 10
+http://tvpremiumhd.club/lista-gratuita/fox/s915.ts
+#EXTINF:-1,MUSICA:TELEMUSICA HD
+http://tvpremiumhd.club/lista-gratuita/fox/s815.ts
+#EXTINF:-1,TV PANAMA:TELEMETRO
+http://tvpremiumhd.club/lista-gratuita/fox/s924.ts
+#EXTINF:-1,TV COLOMBIA:TELEISLAS
+http://tvpremiumhd.club/lista-gratuita/fox/s887.ts
+#EXTINF:-1,MUSICA:TELEENVIGADO MUSICA
+http://tvpremiumhd.club/lista-gratuita/fox/s886.ts
+#EXTINF:-1,TV VARIOS:TELECOSTA GUATEMALA
+http://tvpremiumhd.club/lista-gratuita/fox/s920.ts
+#EXTINF:-1,TV VARIOS:TELECEIBA CANAL 7 HONDURAS
+http://tvpremiumhd.club/lista-gratuita/fox/s926.ts
+#EXTINF:-1,TV COSTA RICA:TELE UNO TV
+http://tvpremiumhd.club/lista-gratuita/fox/s902.ts
+#EXTINF:-1,TV ARGENTINA:TDC ONLINE FIMAT
+http://tvpremiumhd.club/lista-gratuita/fox/s870.ts
+#EXTINF:-1,TV ARGENTINA:TDC
+http://tvpremiumhd.club/lista-gratuita/fox/s837.ts
+#EXTINF:-1,MUSICA:SOY ROCK
+http://tvpremiumhd.club/lista-gratuita/fox/s869.ts
+#EXTINF:-1,TV MEXICO:RTG GUERRERO
+http://tvpremiumhd.club/lista-gratuita/fox/s851.ts
+#EXTINF:-1,TV MEXICO:RQT GUERRERO
+http://tvpremiumhd.club/lista-gratuita/fox/s852.ts
+#EXTINF:-1,TV PANAMA:RPC TV
+http://tvpremiumhd.club/lista-gratuita/fox/s891.ts
+#EXTINF:-1,TV REP DOMINICANA:ROMANA TV 42
+http://tvpremiumhd.club/lista-gratuita/fox/s911.ts
+#EXTINF:-1,TV REP DOMINICANA:RNN CANAL 27 HD
+http://tvpremiumhd.club/lista-gratuita/fox/s910.ts
+#EXTINF:-1,TV MEXICO:RG 1 SALTILLO
+http://tvpremiumhd.club/lista-gratuita/fox/s848.ts
+#EXTINF:-1,TV MEXICO:RG 2 SALTILLO
+http://tvpremiumhd.club/lista-gratuita/fox/s849.ts
+#EXTINF:-1,TV MEXICO:RG 3 SALTILLO
+http://tvpremiumhd.club/lista-gratuita/fox/s850.ts
+#EXTINF:-1,DEPORTES:REDBULL TV
+http://tvpremiumhd.club/lista-gratuita/fox/s840.ts
+#EXTINF:-1,MUSICA:RADIO ITALIA VISION
+http://tvpremiumhd.club/lista-gratuita/fox/s835.ts
+#EXTINF:-1,MUSICA:RADIO 105 TV
+http://tvpremiumhd.club/lista-gratuita/fox/s829.ts
+#EXTINF:-1,TV ARGENTINA:POWER HD
+http://tvpremiumhd.club/lista-gratuita/fox/s868.ts
+#EXTINF:-1,TV VENEZUELA:PLOMAR TV
+http://tvpremiumhd.club/lista-gratuita/fox/s930.ts
+#EXTINF:-1,MUSICA:PLAY CHANNEL
+http://tvpremiumhd.club/lista-gratuita/fox/s831.ts
+#EXTINF:-1,TV PANAMA:OYE TV
+http://tvpremiumhd.club/lista-gratuita/fox/s923.ts
+#EXTINF:-1,TV PERU:OVACION
+http://tvpremiumhd.club/lista-gratuita/fox/s822.ts
+#EXTINF:-1,TV ECUADOR:OROMAR TV
+http://tvpremiumhd.club/lista-gratuita/fox/s882.ts
+#EXTINF:-1,MUSICA:NRJ HITS
+http://tvpremiumhd.club/lista-gratuita/fox/s817.ts
+#EXTINF:-1,DEPORTES:NFL SPORTS
+http://tvpremiumhd.club/lista-gratuita/fox/s846.ts
+#EXTINF:-1,MUSICA:MUSIC VOX TV OLD SCHOOL MUSICA
+http://tvpremiumhd.club/lista-gratuita/fox/s845.ts
+#EXTINF:-1,MUSICA:MUSIC TOP
+http://tvpremiumhd.club/lista-gratuita/fox/s834.ts
+#EXTINF:-1,TV REP DOMINICANA:MICROVISION CANAL 10 HD
+http://tvpremiumhd.club/lista-gratuita/fox/s909.ts
+#EXTINF:-1,MUSICA:MIA TV
+http://tvpremiumhd.club/lista-gratuita/fox/s908.ts
+#EXTINF:-1,MUSICA:M2O TV
+http://tvpremiumhd.club/lista-gratuita/fox/s836.ts
+#EXTINF:-1,TV ARGENTINA:LITUS TV
+http://tvpremiumhd.club/lista-gratuita/fox/s816.ts
+#EXTINF:-1,TV VENEZUELA:LA TELETUYA
+http://tvpremiumhd.club/lista-gratuita/fox/s828.ts
+#EXTINF:-1,TV VARIOS:INTERCABLE PARAGUAY
+http://tvpremiumhd.club/lista-gratuita/fox/s895.ts
+#EXTINF:-1,MUSICA:HIT TV MUSICA
+http://tvpremiumhd.club/lista-gratuita/fox/s832.ts
+#EXTINF:-1,TV COSTA RICA:HBTV TICAVISION
+http://tvpremiumhd.club/lista-gratuita/fox/s899.ts
+#EXTINF:-1,TV ARGENTINA:EL 10 SALTA
+http://tvpremiumhd.club/lista-gratuita/fox/s866.ts
+#EXTINF:-1,TV PANAMA:ECO TV
+http://tvpremiumhd.club/lista-gratuita/fox/s922.ts
+#EXTINF:-1,TV PERU:DIGITAL TV PERU
+http://tvpremiumhd.club/lista-gratuita/fox/s890.ts
+#EXTINF:-1,TV REP DOMINICANA:DIGITAL 15
+http://tvpremiumhd.club/lista-gratuita/fox/s907.ts
+#EXTINF:-1,DEPORTES:COS FC
+http://tvpremiumhd.club/lista-gratuita/fox/s921.ts
+#EXTINF:-1,DEPORTES:COS FC SPORT
+http://tvpremiumhd.club/lista-gratuita/fox/s823.ts
+#EXTINF:-1,TV COSTA RICA:COLOSAL TV
+http://tvpremiumhd.club/lista-gratuita/fox/s898.ts
+#EXTINF:-1,TV REP DOMINICANA:COLOR VISION CANAL 9
+http://tvpremiumhd.club/lista-gratuita/fox/s906.ts
+#EXTINF:-1,TV COLOMBIA:CNC
+http://tvpremiumhd.club/lista-gratuita/fox/s885.ts
+#EXTINF:-1,TV CHILE:CHOLE TV CANAL 75
+http://tvpremiumhd.club/lista-gratuita/fox/s877.ts
+#EXTINF:-1,TV CHILE:CAROLINA TV
+http://tvpremiumhd.club/lista-gratuita/fox/s876.ts
+#EXTINF:-1,TV PERU:CAPITAL TV
+http://tvpremiumhd.club/lista-gratuita/fox/s889.ts
+#EXTINF:-1,TV ECUADOR:CANELA TV
+http://tvpremiumhd.club/lista-gratuita/fox/s881.ts
+#EXTINF:-1,TV ARGENTINA:CANAL PROVINCIAL
+http://tvpremiumhd.club/lista-gratuita/fox/s865.ts
+#EXTINF:-1,TV ARGENTINA:CANAL ORBE 21
+http://tvpremiumhd.club/lista-gratuita/fox/s864.ts
+#EXTINF:-1,TV VARIOS:CANAL M URUGUAY
+http://tvpremiumhd.club/lista-gratuita/fox/s894.ts
+#EXTINF:-1,TV ARGENTINA:CANAL LOCAL OLAVARRIA
+http://tvpremiumhd.club/lista-gratuita/fox/s863.ts
+#EXTINF:-1,TV COSTA RICA:CANAL 9 TV SUR
+http://tvpremiumhd.club/lista-gratuita/fox/s897.ts
+#EXTINF:-1,TV ARGENTINA:CANAL 9 SALTA
+http://tvpremiumhd.club/lista-gratuita/fox/s860.ts
+#EXTINF:-1,TV ARGENTINA:CANAL 79 MAR DE PLATA
+http://tvpremiumhd.club/lista-gratuita/fox/s862.ts
+#EXTINF:-1,TV ARGENTINA:CANAL 4 SAN JUAN
+http://tvpremiumhd.club/lista-gratuita/fox/s859.ts
+#EXTINF:-1,TV ARGENTINA:CANAL 4 POSADAS
+http://tvpremiumhd.club/lista-gratuita/fox/s858.ts
+#EXTINF:-1,TV ARGENTINA:CANAL 4 ESQUEL
+http://tvpremiumhd.club/lista-gratuita/fox/s857.ts
+#EXTINF:-1,TV ARGENTINA:CANAL 3 PINAMAR
+http://tvpremiumhd.club/lista-gratuita/fox/s856.ts
+#EXTINF:-1,MUSICA:CANAL 2 NICARAGUA
+http://tvpremiumhd.club/lista-gratuita/fox/s919.m3u8
+#EXTINF:-1,TV REP DOMINICANA:CANAL 14
+http://tvpremiumhd.club/lista-gratuita/fox/s884.ts
+#EXTINF:-1,TV ARGENTINA:CANAL 10 SALTA
+http://tvpremiumhd.club/lista-gratuita/fox/s812.ts
+#EXTINF:-1,TV ARGENTINA:CANAL 10 RIONEGRINA
+http://tvpremiumhd.club/lista-gratuita/fox/s861.ts
+#EXTINF:-1,TV MEXICO:CANAL 10 CHIAPAS
+http://tvpremiumhd.club/lista-gratuita/fox/s833.ts
+#EXTINF:-1,MUSICA:CALIFORNIA MUSIC CHANNEL
+http://tvpremiumhd.club/lista-gratuita/fox/s825.ts
+#EXTINF:-1,TV COLOMBIA:CALI TV
+http://tvpremiumhd.club/lista-gratuita/fox/s883.ts
+#EXTINF:-1,TV PANAMA:CABLE ONDA
+http://tvpremiumhd.club/lista-gratuita/fox/s824.ts
+#EXTINF:-1,TV REP DOMINICANA:BONAO TV CANAL 12
+http://tvpremiumhd.club/lista-gratuita/fox/s905.ts
+#EXTINF:-1,TV VARIOS:BOLIVIA TV
+http://tvpremiumhd.club/lista-gratuita/fox/s934.ts
+#EXTINF:-1,TV CHILE:BIO BIO TV CANAL 9
+http://tvpremiumhd.club/lista-gratuita/fox/s875.ts
+#EXTINF:-1,TV PERU:BHTV
+http://tvpremiumhd.club/lista-gratuita/fox/s888.ts
+#EXTINF:-1,TV VARIOS:AZTECA HONDURAS
+http://tvpremiumhd.club/lista-gratuita/fox/s925.ts
+#EXTINF:-1,TV VARIOS:ATB BOLIVIA
+http://tvpremiumhd.club/lista-gratuita/fox/s933.ts
+#EXTINF:-1,TV CHILE:ARABTV
+http://tvpremiumhd.club/lista-gratuita/fox/s874.ts
+#EXTINF:-1,TV PERU:ANTARES
+http://tvpremiumhd.club/lista-gratuita/fox/s811.ts
+#EXTINF:-1,DEPORTES:AD SPORTS 1 HD
+http://tvpremiumhd.club/lista-gratuita/fox/s819.ts
+#EXTINF:-1,DEPORTES:AD SPORTS 2 HD
+http://tvpremiumhd.club/lista-gratuita/fox/s820.ts
+#EXTINF:-1,TV ARGENTINA:5TV CORRIENTES
+http://tvpremiumhd.club/lista-gratuita/fox/s855.ts
+#EXTINF:-1,TV ARGENTINA:4 POSADAS
+http://tvpremiumhd.club/lista-gratuita/fox/s814.ts
+#EXTINF:-1,MUSICA:28 MAR PORTAL FOX MIX TV
+http://tvpremiumhd.club/lista-gratuita/fox/s810.ts
+#EXTINF:-1,MUSICA:XTREMO CHANNEL
+http://tvpremiumhd.club/lista-gratuita/fox/s918.ts
+#EXTINF:-1,TV MEXICO:TLAXCALA TV
+http://tvpremiumhd.club/lista-gratuita/fox/s853.ts
+#EXTINF:-1,TV MEXICO:AZ PLUS HD
+http://tvpremiumhd.club/lista-gratuita/fox/s821.ts
+#EXTINF:-1,TV ARGENTINA:TELEFE
+http://tvpremiumhd.club/lista-gratuita/fox/telefe.ts
